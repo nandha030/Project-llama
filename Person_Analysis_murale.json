@@ -1,0 +1,61 @@
+{
+  "assigned_to_me": [
+    {
+      "task": "find the attached problem statement",
+      "date": "2024-11-26 13:10:55.381000",
+      "subject": "AI-Powered Cross-Platform Data Management Solution",
+      "type": "request"
+    }
+  ],
+  "assigned_by_me": [],
+  "pending_tasks": [
+    {
+      "task": "find the attached problem statement",
+      "date": "2024-11-26 13:10:55.381000",
+      "subject": "AI-Powered Cross-Platform Data Management Solution",
+      "type": "request"
+    }
+  ],
+  "completed_tasks": [],
+  "upcoming_deadlines": [],
+  "recent_interactions": [
+    {
+      "date": "2024-11-28 12:02:00",
+      "subject": "updated AI powered Cross-platform Automation PPT",
+      "type": "received"
+    },
+    {
+      "date": "2024-11-27 14:24:00",
+      "subject": "Accepted: Virtual Chat Assistant - Demo",
+      "type": "sent"
+    },
+    {
+      "date": "2024-11-27 12:40:26.524000",
+      "subject": "Virtual Chat Assistant - Demo",
+      "type": "received"
+    },
+    {
+      "date": "2024-11-26 13:10:55.381000",
+      "subject": "AI-Powered Cross-Platform Data Management Solution",
+      "type": "received"
+    },
+    {
+      "date": "2024-11-19 11:41:00",
+      "subject": "FW: Automated Outlook Email Analyzer for Incident Summaries",
+      "type": "received"
+    },
+    {
+      "date": "2024-10-29 10:27:07.182000",
+      "subject": "RE: Go Live Announcement - Woolworths Distribution Centre hosting managed service",
+      "type": "received"
+    }
+  ],
+  "action_items": [
+    {
+      "task": "find the attached problem statement",
+      "date": "2024-11-26 13:10:55.381000",
+      "subject": "AI-Powered Cross-Platform Data Management Solution",
+      "type": "request"
+    }
+  ]
+}

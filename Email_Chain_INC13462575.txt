@@ -1,0 +1,2791 @@
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+From: js1@tcs.woolworths.com.au
+Received: 2024-11-25 14:51:18.138000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Team,
+
+Please note that BCP Testing has been completed and switched back to the normal Logistics UAT environment. Now Member 5 will be down and other members should be up and running.
+
+Thank you,
+
+
+Jay
+Enterprise Application Integration (EAI)
+EAI - R&D Engineering Team Lead
+Woolworths Group Limited
+
+
+M 0478 688 035
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+
+On Mon, 25 Nov 2024 at 16:46, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+
+	Acknowledged Jay. Thanks for the heads-up.
+
+	 
+
+	Regards,
+
+	Kiran
+
+	 
+
+	
+	
+
+	Internal Use - Confidential
+	
+
+	From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+	Sent: 25 November 2024 10:59
+	To: Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> >
+	Cc: Rajendran, Mohana <M.Rajendran@Dell.com>; Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> >; Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+	Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+	
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Team,
+
+	 
+
+	We will be switching the Logistics UAT environment to BCP Environment today from 4:30PM to 7:30PM AEST. You will be seeing alerts for the same. Please ignore those.
+
+	 
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Sat, 23 Nov 2024 at 19:46, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+		Hi @Jayakumar S (TCS) <mailto:js1@tcs.woolworths.com.au> ,
+
+		 
+
+		Thanks for the update.
+
+		 
+
+		Thanks & regards,
+
+		Siva Krishna
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+		Sent: 23 November 2024 13:36
+		To: Rajendran, Mohana <M.Rajendran@Dell.com <mailto:M.Rajendran@Dell.com> >
+		Cc: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> >; Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+		Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Team ,
+
+		 
+
+		BCP Testing has been completed and switched back to normal Logistics UAT environment. Now Member 5 will be down and other members should be up and running.
+
+		 
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Sat, 23 Nov 2024 at 14:29, Rajendran, Mohana <M.Rajendran@dell.com <mailto:M.Rajendran@dell.com> > wrote:
+
+			Hi Baddinath,
+
+			 
+
+			Acknowledged.
+
+			 
+
+			 
+
+			Note: For Faster Response. Please include Team DL --> dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+			 
+
+			Thanks and Regards,
+
+			Mohana Rajendran
+
+			Service Delivery Engineer L1,
+
+			m.rajendran@dell.com <mailto:m.rajendran@dell.com> 
+			Dell Technologies | Professional, Managed, & Field Services
+
+			' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+			' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+			' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+			 
+
+			 
+
+			 
+
+			 
+
+			Internal Use - Confidential
+
+			From: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> > 
+			Sent: 23 November 2024 08:57 AM
+			To: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+			Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+			Subject: RE: INC13462575, INC13462574 - ALB alerts 
+
+			 
+
+			++L1 team
+
+			 
+
+			Thanks & Regards
+
+			Baddinath Das
+
+			Dell Technologies | Professional & Managed Services || HCI – Network
+
+			Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> 
+
+			A Dell Technologies Business
+
+			Bagmane Developers Pvt Ltd, SEZ, Marathahalli Ring Road, Doddankkundi, Bengaluru, India, 560037
+
+			
+
+			 
+
+			 
+
+			 
+
+			 
+
+			 
+
+			 
+
+			Internal Use - Confidential
+
+			From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+			Sent: Saturday, November 23, 2024 8:38 AM
+			To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+			Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+			Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+			 
+
+			[EXTERNAL EMAIL] 
+
+			Hi Team,
+
+			 
+
+			As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+			 
+
+			 
+
+			Thank you,
+
+			 
+
+			Jay
+
+			Enterprise Application Integration (EAI)
+
+			EAI - R&D Engineering Team Lead
+
+			Woolworths Group Limited
+
+			 
+
+			M 0478 688 035
+
+			E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+			 
+
+			1 Woolworths Way Bella Vista, NSW 2153
+
+			 
+
+			 
+
+			On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+				Hi Kiran,
+
+				 
+
+				Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+				 
+
+				Thank you,
+
+				 
+
+				Jay
+
+				Enterprise Application Integration (EAI)
+
+				EAI - R&D Engineering Team Lead
+
+				Woolworths Group Limited
+
+				 
+
+				M 0478 688 035
+
+				E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+				 
+
+				1 Woolworths Way Bella Vista, NSW 2153
+
+				 
+
+				 
+
+				On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+					Hi Jay,
+
+					Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+					 
+
+					Regards,
+
+					Kiran
+
+					 
+
+					 
+
+					Internal Use - Confidential
+
+					From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+					Sent: 21 November 2024 14:10
+					To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+					Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+					Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+					 
+
+					[EXTERNAL EMAIL] 
+
+					Hi Kiran,
+
+					 
+
+					Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+					 
+
+					 
+
+					Thank you,
+
+					 
+
+					Jay
+
+					Enterprise Application Integration (EAI)
+
+					EAI - R&D Engineering Team Lead
+
+					Woolworths Group Limited
+
+					 
+
+					M 0478 688 035
+
+					E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+					 
+
+					1 Woolworths Way Bella Vista, NSW 2153
+
+					 
+
+					 
+
+					On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+					Hi Jayakumar / Nagendra,
+
+					 
+
+					We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+					INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+					INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+					
+
+					
+
+					 
+
+					Regards,
+
+					Kiran
+
+					 
+
+					Internal Use - Confidential
+
+					 
+
+					CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+			 
+
+			CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: INC13462575, INC13462574 - ALB alerts
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7EAC280FC8EC44F28235D6D693C44380-YADAVK1
+Received: 2024-11-25 11:16:16.359000+00:00
+Body:
+Acknowledged Jay. Thanks for the heads-up.
+
+ 
+
+Regards,
+
+Kiran
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au> 
+Sent: 25 November 2024 10:59
+To: Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com>
+Cc: Rajendran, Mohana <M.Rajendran@Dell.com>; Das, Baddinath <Baddinath.Das@dell.com>; Nagendra Rajoli <nrajoli@woolworths.com.au>; nonprod-webmethods@woolworths.com.au; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>; Yadav, Kiran <Kiran.Yadav@dell.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Team,
+
+ 
+
+We will be switching the Logistics UAT environment to BCP Environment today from 4:30PM to 7:30PM AEST. You will be seeing alerts for the same. Please ignore those.
+
+ 
+
+ 
+
+Thank you,
+
+ 
+
+Jay
+
+Enterprise Application Integration (EAI)
+
+EAI - R&D Engineering Team Lead
+
+Woolworths Group Limited
+
+ 
+
+M 0478 688 035
+
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+ 
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+ 
+
+ 
+
+On Sat, 23 Nov 2024 at 19:46, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+	Hi @Jayakumar S (TCS) <mailto:js1@tcs.woolworths.com.au> ,
+
+	 
+
+	Thanks for the update.
+
+	 
+
+	Thanks & regards,
+
+	Siva Krishna
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+	Sent: 23 November 2024 13:36
+	To: Rajendran, Mohana <M.Rajendran@Dell.com <mailto:M.Rajendran@Dell.com> >
+	Cc: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> >; Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+	Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Team ,
+
+	 
+
+	BCP Testing has been completed and switched back to normal Logistics UAT environment. Now Member 5 will be down and other members should be up and running.
+
+	 
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Sat, 23 Nov 2024 at 14:29, Rajendran, Mohana <M.Rajendran@dell.com <mailto:M.Rajendran@dell.com> > wrote:
+
+		Hi Baddinath,
+
+		 
+
+		Acknowledged.
+
+		 
+
+		 
+
+		Note: For Faster Response. Please include Team DL --> dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+		 
+
+		Thanks and Regards,
+
+		Mohana Rajendran
+
+		Service Delivery Engineer L1,
+
+		m.rajendran@dell.com <mailto:m.rajendran@dell.com> 
+		Dell Technologies | Professional, Managed, & Field Services
+
+		' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+		' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+		' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+		 
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> > 
+		Sent: 23 November 2024 08:57 AM
+		To: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+		Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+		Subject: RE: INC13462575, INC13462574 - ALB alerts 
+
+		 
+
+		++L1 team
+
+		 
+
+		Thanks & Regards
+
+		Baddinath Das
+
+		Dell Technologies | Professional & Managed Services || HCI – Network
+
+		Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> 
+
+		A Dell Technologies Business
+
+		Bagmane Developers Pvt Ltd, SEZ, Marathahalli Ring Road, Doddankkundi, Bengaluru, India, 560037
+
+		
+
+		 
+
+		 
+
+		 
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+		Sent: Saturday, November 23, 2024 8:38 AM
+		To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+		Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Team,
+
+		 
+
+		As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+		 
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+			Hi Kiran,
+
+			 
+
+			Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+			 
+
+			Thank you,
+
+			 
+
+			Jay
+
+			Enterprise Application Integration (EAI)
+
+			EAI - R&D Engineering Team Lead
+
+			Woolworths Group Limited
+
+			 
+
+			M 0478 688 035
+
+			E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+			 
+
+			1 Woolworths Way Bella Vista, NSW 2153
+
+			 
+
+			 
+
+			On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+				Hi Jay,
+
+				Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+				 
+
+				Regards,
+
+				Kiran
+
+				 
+
+				 
+
+				Internal Use - Confidential
+
+				From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+				Sent: 21 November 2024 14:10
+				To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+				Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+				Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+				 
+
+				[EXTERNAL EMAIL] 
+
+				Hi Kiran,
+
+				 
+
+				Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+				 
+
+				 
+
+				Thank you,
+
+				 
+
+				Jay
+
+				Enterprise Application Integration (EAI)
+
+				EAI - R&D Engineering Team Lead
+
+				Woolworths Group Limited
+
+				 
+
+				M 0478 688 035
+
+				E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+				 
+
+				1 Woolworths Way Bella Vista, NSW 2153
+
+				 
+
+				 
+
+				On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+					Hi Jayakumar / Nagendra,
+
+					 
+
+					We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+					INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+					INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+					
+
+					
+
+					 
+
+					Regards,
+
+					Kiran
+
+					 
+
+					Internal Use - Confidential
+
+				 
+
+				CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+From: js1@tcs.woolworths.com.au
+Received: 2024-11-25 10:59:00.113000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Team,
+
+We will be switching the Logistics UAT environment to BCP Environment today from 4:30PM to 7:30PM AEST. You will be seeing alerts for the same. Please ignore those.
+
+
+Thank you,
+
+
+Jay
+Enterprise Application Integration (EAI)
+EAI - R&D Engineering Team Lead
+Woolworths Group Limited
+
+
+M 0478 688 035
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+
+On Sat, 23 Nov 2024 at 19:46, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+
+	Hi @Jayakumar S (TCS) <mailto:js1@tcs.woolworths.com.au> ,
+
+	 
+
+	Thanks for the update.
+
+	 
+
+	Thanks & regards,
+
+	Siva Krishna
+
+	 
+
+	
+	
+
+	Internal Use - Confidential
+	
+
+	From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+	Sent: 23 November 2024 13:36
+	To: Rajendran, Mohana <M.Rajendran@Dell.com>
+	Cc: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> >; Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+	Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+	
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Team ,
+
+	 
+
+	BCP Testing has been completed and switched back to normal Logistics UAT environment. Now Member 5 will be down and other members should be up and running.
+
+	 
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Sat, 23 Nov 2024 at 14:29, Rajendran, Mohana <M.Rajendran@dell.com <mailto:M.Rajendran@dell.com> > wrote:
+
+		Hi Baddinath,
+
+		 
+
+		Acknowledged.
+
+		 
+
+		 
+
+		Note: For Faster Response. Please include Team DL --> dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+		 
+
+		Thanks and Regards,
+
+		Mohana Rajendran
+
+		Service Delivery Engineer L1,
+
+		m.rajendran@dell.com <mailto:m.rajendran@dell.com> 
+		Dell Technologies | Professional, Managed, & Field Services
+
+		' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+		' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+		' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+		 
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> > 
+		Sent: 23 November 2024 08:57 AM
+		To: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+		Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+		Subject: RE: INC13462575, INC13462574 - ALB alerts 
+
+		 
+
+		++L1 team
+
+		 
+
+		Thanks & Regards
+
+		Baddinath Das
+
+		Dell Technologies | Professional & Managed Services || HCI – Network
+
+		Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> 
+
+		A Dell Technologies Business
+
+		Bagmane Developers Pvt Ltd, SEZ, Marathahalli Ring Road, Doddankkundi, Bengaluru, India, 560037
+
+		
+
+		 
+
+		 
+
+		 
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+		Sent: Saturday, November 23, 2024 8:38 AM
+		To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+		Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Team,
+
+		 
+
+		As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+		 
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+			Hi Kiran,
+
+			 
+
+			Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+			 
+
+			Thank you,
+
+			 
+
+			Jay
+
+			Enterprise Application Integration (EAI)
+
+			EAI - R&D Engineering Team Lead
+
+			Woolworths Group Limited
+
+			 
+
+			M 0478 688 035
+
+			E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+			 
+
+			1 Woolworths Way Bella Vista, NSW 2153
+
+			 
+
+			 
+
+			On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+				Hi Jay,
+
+				Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+				 
+
+				Regards,
+
+				Kiran
+
+				 
+
+				 
+
+				Internal Use - Confidential
+
+				From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+				Sent: 21 November 2024 14:10
+				To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+				Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+				Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+				 
+
+				[EXTERNAL EMAIL] 
+
+				Hi Kiran,
+
+				 
+
+				Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+				 
+
+				 
+
+				Thank you,
+
+				 
+
+				Jay
+
+				Enterprise Application Integration (EAI)
+
+				EAI - R&D Engineering Team Lead
+
+				Woolworths Group Limited
+
+				 
+
+				M 0478 688 035
+
+				E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+				 
+
+				1 Woolworths Way Bella Vista, NSW 2153
+
+				 
+
+				 
+
+				On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+					Hi Jayakumar / Nagendra,
+
+					 
+
+					We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+					INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+					INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+					
+
+					
+
+					 
+
+					Regards,
+
+					Kiran
+
+					 
+
+					Internal Use - Confidential
+
+				 
+
+				CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: INC13462575, INC13462574 - ALB alerts
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=10CDF534C7AD423997ED2EFD7C91CE18-SIVA_KRISHN
+Received: 2024-11-23 14:16:10.858000+00:00
+Body:
+Hi @Jayakumar S (TCS) <mailto:js1@tcs.woolworths.com.au> ,
+
+ 
+
+Thanks for the update.
+
+ 
+
+Thanks & regards,
+
+Siva Krishna
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au> 
+Sent: 23 November 2024 13:36
+To: Rajendran, Mohana <M.Rajendran@Dell.com>
+Cc: Das, Baddinath <Baddinath.Das@dell.com>; Nagendra Rajoli <nrajoli@woolworths.com.au>; nonprod-webmethods@woolworths.com.au; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>; Yadav, Kiran <Kiran.Yadav@dell.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Team ,
+
+ 
+
+BCP Testing has been completed and switched back to normal Logistics UAT environment. Now Member 5 will be down and other members should be up and running.
+
+ 
+
+ 
+
+Thank you,
+
+ 
+
+Jay
+
+Enterprise Application Integration (EAI)
+
+EAI - R&D Engineering Team Lead
+
+Woolworths Group Limited
+
+ 
+
+M 0478 688 035
+
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+ 
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+ 
+
+ 
+
+On Sat, 23 Nov 2024 at 14:29, Rajendran, Mohana <M.Rajendran@dell.com <mailto:M.Rajendran@dell.com> > wrote:
+
+	Hi Baddinath,
+
+	 
+
+	Acknowledged.
+
+	 
+
+	 
+
+	Note: For Faster Response. Please include Team DL --> dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+	 
+
+	Thanks and Regards,
+
+	Mohana Rajendran
+
+	Service Delivery Engineer L1,
+
+	m.rajendran@dell.com <mailto:m.rajendran@dell.com> 
+	Dell Technologies | Professional, Managed, & Field Services
+
+	' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+	' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+	' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> > 
+	Sent: 23 November 2024 08:57 AM
+	To: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+	Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+	Subject: RE: INC13462575, INC13462574 - ALB alerts 
+
+	 
+
+	++L1 team
+
+	 
+
+	Thanks & Regards
+
+	Baddinath Das
+
+	Dell Technologies | Professional & Managed Services || HCI – Network
+
+	Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> 
+
+	A Dell Technologies Business
+
+	Bagmane Developers Pvt Ltd, SEZ, Marathahalli Ring Road, Doddankkundi, Bengaluru, India, 560037
+
+	
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+	Sent: Saturday, November 23, 2024 8:38 AM
+	To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+	Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Team,
+
+	 
+
+	As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+	 
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+		Hi Kiran,
+
+		 
+
+		Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+			Hi Jay,
+
+			Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+			 
+
+			Regards,
+
+			Kiran
+
+			 
+
+			 
+
+			Internal Use - Confidential
+
+			From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+			Sent: 21 November 2024 14:10
+			To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+			Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+			Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+			 
+
+			[EXTERNAL EMAIL] 
+
+			Hi Kiran,
+
+			 
+
+			Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+			 
+
+			 
+
+			Thank you,
+
+			 
+
+			Jay
+
+			Enterprise Application Integration (EAI)
+
+			EAI - R&D Engineering Team Lead
+
+			Woolworths Group Limited
+
+			 
+
+			M 0478 688 035
+
+			E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+			 
+
+			1 Woolworths Way Bella Vista, NSW 2153
+
+			 
+
+			 
+
+			On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+				Hi Jayakumar / Nagendra,
+
+				 
+
+				We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+				INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+				INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+				
+
+				
+
+				 
+
+				Regards,
+
+				Kiran
+
+				 
+
+				Internal Use - Confidential
+
+			 
+
+			CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+From: js1@tcs.woolworths.com.au
+Received: 2024-11-23 13:36:01.851000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Team ,
+
+BCP Testing has been completed and switched back to normal Logistics UAT environment. Now Member 5 will be down and other members should be up and running.
+
+
+Thank you,
+
+
+Jay
+Enterprise Application Integration (EAI)
+EAI - R&D Engineering Team Lead
+Woolworths Group Limited
+
+
+M 0478 688 035
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+
+On Sat, 23 Nov 2024 at 14:29, Rajendran, Mohana <M.Rajendran@dell.com <mailto:M.Rajendran@dell.com> > wrote:
+
+
+	Hi Baddinath,
+
+	 
+
+	Acknowledged.
+
+	 
+
+	 
+
+	Note: For Faster Response. Please include Team DL --> dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+	 
+
+	Thanks and Regards,
+
+	Mohana Rajendran
+
+	Service Delivery Engineer L1,
+
+	m.rajendran@dell.com <mailto:m.rajendran@dell.com> 
+	Dell Technologies | Professional, Managed, & Field Services
+
+	' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+	' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+	' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+	 
+
+	 
+
+	 
+
+	
+	
+
+	Internal Use - Confidential
+	
+
+	From: Das, Baddinath <Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> > 
+	Sent: 23 November 2024 08:57 AM
+	To: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+	Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+	Subject: RE: INC13462575, INC13462574 - ALB alerts 
+
+	
+
+	 
+
+	++L1 team
+
+	 
+
+	Thanks & Regards
+
+	Baddinath Das
+
+	Dell Technologies | Professional & Managed Services || HCI – Network
+
+	Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> 
+
+	A Dell Technologies Business
+
+	Bagmane Developers Pvt Ltd, SEZ, Marathahalli Ring Road, Doddankkundi, Bengaluru, India, 560037
+
+	 <https://www.crossed-flag-pins.com/animated-flag-gif/gifs/India_120-animated-flag-gifs.gif> 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+	Sent: Saturday, November 23, 2024 8:38 AM
+	To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+	Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Team,
+
+	 
+
+	As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+	 
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+		Hi Kiran,
+
+		 
+
+		Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+			Hi Jay,
+
+			Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+			 
+
+			Regards,
+
+			Kiran
+
+			 
+
+			 
+
+			Internal Use - Confidential
+
+			From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+			Sent: 21 November 2024 14:10
+			To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+			Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+			Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+			 
+
+			[EXTERNAL EMAIL] 
+
+			Hi Kiran,
+
+			 
+
+			Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+			 
+
+			 
+
+			Thank you,
+
+			 
+
+			Jay
+
+			Enterprise Application Integration (EAI)
+
+			EAI - R&D Engineering Team Lead
+
+			Woolworths Group Limited
+
+			 
+
+			M 0478 688 035
+
+			E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+			 
+
+			1 Woolworths Way Bella Vista, NSW 2153
+
+			 
+
+			 
+
+			On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+				Hi Jayakumar / Nagendra,
+
+				 
+
+				We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+				INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+				INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+				
+
+				
+
+				 
+
+				Regards,
+
+				Kiran
+
+				 
+
+				Internal Use - Confidential
+
+			 
+
+			CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: INC13462575, INC13462574 - ALB alerts
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CB346CB8D57B4C4999C812368758961C-MOHANA_R
+Received: 2024-11-23 08:59:08.989000+00:00
+Body:
+Hi Baddinath,
+
+ 
+
+Acknowledged.
+
+ 
+
+ 
+
+Note: For Faster Response. Please include Team DL --> dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+ 
+
+Thanks and Regards,
+
+Mohana Rajendran
+
+Service Delivery Engineer L1,
+
+m.rajendran@dell.com <mailto:m.rajendran@dell.com> 
+Dell Technologies | Professional, Managed, & Field Services
+
+' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+ 
+
+ 
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Das, Baddinath <Baddinath.Das@dell.com> 
+Sent: 23 November 2024 08:57 AM
+To: Jayakumar S (TCS) <js1@tcs.woolworths.com.au>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+Cc: Nagendra Rajoli <nrajoli@woolworths.com.au>; nonprod-webmethods@woolworths.com.au; Yadav, Kiran <Kiran.Yadav@dell.com>
+Subject: RE: INC13462575, INC13462574 - ALB alerts
+
+ 
+
+++L1 team
+
+ 
+
+Thanks & Regards
+
+Baddinath Das
+
+Dell Technologies | Professional & Managed Services || HCI – Network
+
+Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> 
+
+A Dell Technologies Business
+
+Bagmane Developers Pvt Ltd, SEZ, Marathahalli Ring Road, Doddankkundi, Bengaluru, India, 560037
+
+ <https://www.crossed-flag-pins.com/animated-flag-gif/gifs/India_120-animated-flag-gifs.gif> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+Sent: Saturday, November 23, 2024 8:38 AM
+To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> ; Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Team,
+
+ 
+
+As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+ 
+
+ 
+
+Thank you,
+
+ 
+
+Jay
+
+Enterprise Application Integration (EAI)
+
+EAI - R&D Engineering Team Lead
+
+Woolworths Group Limited
+
+ 
+
+M 0478 688 035
+
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+ 
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+ 
+
+ 
+
+On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+	Hi Kiran,
+
+	 
+
+	Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+		Hi Jay,
+
+		Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+		 
+
+		Regards,
+
+		Kiran
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+		Sent: 21 November 2024 14:10
+		To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+		Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+		Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kiran,
+
+		 
+
+		Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+		 
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+			Hi Jayakumar / Nagendra,
+
+			 
+
+			We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+			INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+			INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+			
+
+			
+
+			 
+
+			Regards,
+
+			Kiran
+
+			 
+
+			Internal Use - Confidential
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: INC13462575, INC13462574 - ALB alerts
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=918BDFFCAB70437EB4153A3816B978EE-DASB6
+Received: 2024-11-23 08:56:48.274000+00:00
+Body:
+++L1 team
+
+ 
+
+Thanks & Regards
+
+Baddinath Das
+
+Dell Technologies | Professional & Managed Services || HCI – Network
+
+Baddinath.Das@dell.com <mailto:Baddinath.Das@dell.com> 
+
+A Dell Technologies Business
+
+Bagmane Developers Pvt Ltd, SEZ, Marathahalli Ring Road, Doddankkundi, Bengaluru, India, 560037
+
+ <https://www.crossed-flag-pins.com/animated-flag-gif/gifs/India_120-animated-flag-gifs.gif> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Internal Use - Confidential
+
+
+From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au> 
+Sent: Saturday, November 23, 2024 8:38 AM
+To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com>
+Cc: Nagendra Rajoli <nrajoli@woolworths.com.au>; nonprod-webmethods@woolworths.com.au; Yadav, Kiran <Kiran.Yadav@dell.com>
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Team,
+
+ 
+
+As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+ 
+
+ 
+
+Thank you,
+
+ 
+
+Jay
+
+Enterprise Application Integration (EAI)
+
+EAI - R&D Engineering Team Lead
+
+Woolworths Group Limited
+
+ 
+
+M 0478 688 035
+
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+ 
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+ 
+
+ 
+
+On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+	Hi Kiran,
+
+	 
+
+	Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+		Hi Jay,
+
+		Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+		 
+
+		Regards,
+
+		Kiran
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+		Sent: 21 November 2024 14:10
+		To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+		Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+		Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kiran,
+
+		 
+
+		Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+		 
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+			Hi Jayakumar / Nagendra,
+
+			 
+
+			We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+			INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+			INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+			
+
+			
+
+			 
+
+			Regards,
+
+			Kiran
+
+			 
+
+			Internal Use - Confidential
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+From: js1@tcs.woolworths.com.au
+Received: 2024-11-23 08:38:35.257000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Team,
+
+As part of our BCP testing we brought down the Logistics IS and brought up the BCP IS in UAT. You will be getting some alerts for the same. Please ignore/ suppress those.
+
+
+Thank you,
+
+
+Jay
+Enterprise Application Integration (EAI)
+EAI - R&D Engineering Team Lead
+Woolworths Group Limited
+
+
+M 0478 688 035
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+
+On Thu, 21 Nov 2024 at 20:18, Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > wrote:
+
+
+	Hi Kiran,
+
+	Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+	Thank you,
+	
+	
+	Jay
+	Enterprise Application Integration (EAI)
+	EAI - R&D Engineering Team Lead
+	Woolworths Group Limited
+	
+	
+	M 0478 688 035
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+	
+	
+	1 Woolworths Way Bella Vista, NSW 2153
+
+
+	On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+	
+
+		Hi Jay,
+
+		Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+		 
+
+		Regards,
+
+		Kiran
+
+		 
+
+		
+		
+
+		Internal Use - Confidential
+		
+
+		From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+		Sent: 21 November 2024 14:10
+		To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+		Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+		Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+		
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kiran,
+
+		 
+
+		Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+		 
+
+		 
+
+		Thank you,
+
+		 
+
+		Jay
+
+		Enterprise Application Integration (EAI)
+
+		EAI - R&D Engineering Team Lead
+
+		Woolworths Group Limited
+
+		 
+
+		M 0478 688 035
+
+		E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+		 
+
+		1 Woolworths Way Bella Vista, NSW 2153
+
+		 
+
+		 
+
+		On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+			Hi Jayakumar / Nagendra,
+
+			 
+
+			We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+			INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+			INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+			
+
+			
+
+			 
+
+			Regards,
+
+			Kiran
+
+			 
+
+			Internal Use - Confidential
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+From: js1@tcs.woolworths.com.au
+Received: 2024-11-21 14:49:09.207000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Kiran,
+
+Thank you! We will circulate on this email on a daily basis whenever we perform this testing.
+
+Thank you,
+
+
+Jay
+Enterprise Application Integration (EAI)
+EAI - R&D Engineering Team Lead
+Woolworths Group Limited
+
+
+M 0478 688 035
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+
+On Thu, 21 Nov 2024 at 20:14, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+
+	Hi Jay,
+
+	Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+	 
+
+	Regards,
+
+	Kiran
+
+	 
+
+	
+	
+
+	Internal Use - Confidential
+	
+
+	From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> > 
+	Sent: 21 November 2024 14:10
+	To: Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> >
+	Cc: Nagendra Rajoli <nrajoli@woolworths.com.au <mailto:nrajoli@woolworths.com.au> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; nonprod-webmethods@woolworths.com.au <mailto:nonprod-webmethods@woolworths.com.au> 
+	Subject: Re: INC13462575, INC13462574 - ALB alerts 
+
+	
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Kiran,
+
+	 
+
+	Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+	 
+
+	 
+
+	Thank you,
+
+	 
+
+	Jay
+
+	Enterprise Application Integration (EAI)
+
+	EAI - R&D Engineering Team Lead
+
+	Woolworths Group Limited
+
+	 
+
+	M 0478 688 035
+
+	E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+	 
+
+	1 Woolworths Way Bella Vista, NSW 2153
+
+	 
+
+	 
+
+	On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+		Hi Jayakumar / Nagendra,
+
+		 
+
+		We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+		INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+		INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+		
+
+		
+
+		 
+
+		Regards,
+
+		Kiran
+
+		 
+
+		Internal Use - Confidential
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: INC13462575, INC13462574 - ALB alerts
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7EAC280FC8EC44F28235D6D693C44380-YADAVK1
+Received: 2024-11-21 14:44:04.431000+00:00
+Body:
+Hi Jay,
+
+Thank you for the update. Currently, I can see that none of the 5 servers are serving data. Please refer to the screenshots in my previous email. I kindly request that you keep us informed of your activities so we can disregard or suppress related incidents, helping us avoid unnecessary back-and-forth emails. Thank you for your understanding. For now, I will go ahead and archive these two incidents.
+
+ 
+
+Regards,
+
+Kiran
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Jayakumar S (TCS) <js1@tcs.woolworths.com.au> 
+Sent: 21 November 2024 14:10
+To: Yadav, Kiran <Kiran.Yadav@dell.com>
+Cc: Nagendra Rajoli <nrajoli@woolworths.com.au>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>; nonprod-webmethods@woolworths.com.au
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Kiran,
+
+ 
+
+Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+ 
+
+ 
+
+Thank you,
+
+ 
+
+Jay
+
+Enterprise Application Integration (EAI)
+
+EAI - R&D Engineering Team Lead
+
+Woolworths Group Limited
+
+ 
+
+M 0478 688 035
+
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+ 
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+ 
+
+ 
+
+On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+	Hi Jayakumar / Nagendra,
+
+	 
+
+	We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+	INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+	INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+	
+
+	
+
+	 
+
+	Regards,
+
+	Kiran
+
+	 
+
+	Internal Use - Confidential
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: Re: INC13462575, INC13462574 - ALB alerts
+From: js1@tcs.woolworths.com.au
+Received: 2024-11-21 14:10:47.517000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Kiran,
+
+Yes, on a daily basis from 6pm to 8pm AEST we are performing testing for the BCP solution. In this case all the 4 members will be down and member 5 will be brought up. We would like your team to confirm if there is any load processed to Member-5 (10.17.106.73), if you can.
+
+
+Thank you,
+
+
+Jay
+Enterprise Application Integration (EAI)
+EAI - R&D Engineering Team Lead
+Woolworths Group Limited
+
+
+M 0478 688 035
+E js1@tcs.woolworths.com.au <mailto:js1@tcs.woolworths.com.au> 
+
+
+1 Woolworths Way Bella Vista, NSW 2153
+
+
+On Thu, 21 Nov 2024 at 19:27, Yadav, Kiran <Kiran.Yadav@dell.com <mailto:Kiran.Yadav@dell.com> > wrote:
+
+
+	Hi Jayakumar / Nagendra,
+
+	 
+
+	We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+	INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+	INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+	
+
+	
+
+	 
+
+	Regards,
+
+	Kiran
+
+
+	Internal Use - Confidential
+	
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: INC13462575, INC13462574 - ALB alerts
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=7EAC280FC8EC44F28235D6D693C44380-YADAVK1
+Received: 2024-11-21 13:57:32.508000+00:00
+Body:
+Hi Jayakumar / Nagendra,
+
+ 
+
+We got few alerts related to Non production Log app Advanced load balancer. Please let us know if you are performing any activity from your end and let us know if you need any support. Thanks.
+
+INC13462575 LOGNONPRODPC1UAT_10.152.156.178_http_8001_8001
+
+INC13462574 LOGNONPRODPC1UAT_10.152.156.178_https_8002_8002
+
+
+
+
+
+ 
+
+Regards,
+
+Kiran
+
+
+Internal Use - Confidential
+
+
+--------------------------------------------------------------------------------
+

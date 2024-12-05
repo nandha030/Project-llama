@@ -1,0 +1,59 @@
+{
+  "assigned_to_me": [
+    {
+      "task": "choose either Session 1 or Session 2 and come ready to engage with the leadership team as they bring you up to speed on the latest news, priorities, and recent achievements",
+      "date": "2024-11-11 17:13:47.577000",
+      "subject": "Q4 DTMS All Hands (Session 2)",
+      "type": "request"
+    },
+    {
+      "task": "choose either Session 1 or Session 2 and come ready to engage with the leadership team as they bring you up to speed on the latest news, priorities, and recent achievements",
+      "date": "2024-11-11 17:12:35.891000",
+      "subject": "Q4 DTMS All Hands (Session 1)",
+      "type": "request"
+    }
+  ],
+  "assigned_by_me": [],
+  "pending_tasks": [
+    {
+      "task": "choose either Session 1 or Session 2 and come ready to engage with the leadership team as they bring you up to speed on the latest news, priorities, and recent achievements",
+      "date": "2024-11-11 17:13:47.577000",
+      "subject": "Q4 DTMS All Hands (Session 2)",
+      "type": "request"
+    },
+    {
+      "task": "choose either Session 1 or Session 2 and come ready to engage with the leadership team as they bring you up to speed on the latest news, priorities, and recent achievements",
+      "date": "2024-11-11 17:12:35.891000",
+      "subject": "Q4 DTMS All Hands (Session 1)",
+      "type": "request"
+    }
+  ],
+  "completed_tasks": [],
+  "upcoming_deadlines": [],
+  "recent_interactions": [
+    {
+      "date": "2024-11-11 17:13:47.577000",
+      "subject": "Q4 DTMS All Hands (Session 2)",
+      "type": "received"
+    },
+    {
+      "date": "2024-11-11 17:12:35.891000",
+      "subject": "Q4 DTMS All Hands (Session 1)",
+      "type": "received"
+    }
+  ],
+  "action_items": [
+    {
+      "task": "choose either Session 1 or Session 2 and come ready to engage with the leadership team as they bring you up to speed on the latest news, priorities, and recent achievements",
+      "date": "2024-11-11 17:13:47.577000",
+      "subject": "Q4 DTMS All Hands (Session 2)",
+      "type": "request"
+    },
+    {
+      "task": "choose either Session 1 or Session 2 and come ready to engage with the leadership team as they bring you up to speed on the latest news, priorities, and recent achievements",
+      "date": "2024-11-11 17:12:35.891000",
+      "subject": "Q4 DTMS All Hands (Session 1)",
+      "type": "request"
+    }
+  ]
+}

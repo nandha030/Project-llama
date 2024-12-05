@@ -1,0 +1,394 @@
+2024-09-28 15:07:24,451 - ERROR - Error loading NLP models: Could not load model facebook/bart-large-cnn with any of the following classes: (<class 'transformers.models.auto.modeling_auto.AutoModelForSeq2SeqLM'>, <class 'transformers.models.bart.modeling_bart.BartForConditionalGeneration'>). See the original errors:
+
+while loading with AutoModelForSeq2SeqLM, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1042, in _create
+    self.do_handshake()
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1320, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727775439&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3NTQzOX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=OlfQf0d30dMuHPODxjsCH7xpPowXxQ9Ew8XA4vUom-t9Xj9eAP2HtaQnFcsYOZU2HuboSI8RzdBKtasDDMExqlyYlghDI7CP8vsm2-XERFZq~1r5LLFi0ot-qt5yM4l-yH8xpYNvjcMTEq3hafH5rqoXWX2dXv3Ok945rgpYbVelS3i0JSOov5A4D9brYV150K-062js~MJjcnZ5qfH5CcGDObJB7qqA~XBlCpnVHmsWwyA4EzEZmXv-F9IUGpBQbhNp6-4fzYBjD72K1OrGshFE97SJtacSkk95w39UgCqJbUsV5aumUNNbgec0C3d42MRqsJmJ9DHJkJNDcPdJiQ__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\pipelines\base.py", line 288, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\models\auto\auto_factory.py", line 564, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\modeling_utils.py", line 3598, in from_pretrained
+    resolved_archive_file = cached_file(pretrained_model_name_or_path, filename, **cached_file_kwargs)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\utils\hub.py", line 403, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_deprecation.py", line 101, in inner_f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1232, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1381, in _hf_hub_download_to_cache_dir
+    _download_to_tmp_and_move(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1915, in _download_to_tmp_and_move
+    http_get(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 455, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 387, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 93, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: (MaxRetryError("HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727775439&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3NTQzOX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=OlfQf0d30dMuHPODxjsCH7xpPowXxQ9Ew8XA4vUom-t9Xj9eAP2HtaQnFcsYOZU2HuboSI8RzdBKtasDDMExqlyYlghDI7CP8vsm2-XERFZq~1r5LLFi0ot-qt5yM4l-yH8xpYNvjcMTEq3hafH5rqoXWX2dXv3Ok945rgpYbVelS3i0JSOov5A4D9brYV150K-062js~MJjcnZ5qfH5CcGDObJB7qqA~XBlCpnVHmsWwyA4EzEZmXv-F9IUGpBQbhNp6-4fzYBjD72K1OrGshFE97SJtacSkk95w39UgCqJbUsV5aumUNNbgec0C3d42MRqsJmJ9DHJkJNDcPdJiQ__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))"), '(Request ID: 853fe6fe-6b1c-4a55-802c-3ce707372930)')
+
+while loading with BartForConditionalGeneration, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1042, in _create
+    self.do_handshake()
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1320, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727773882&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3Mzg4Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=TC6OPjtzj0zprK6WvJ6mIq70zPnKnGZ1XG-mXd47qpt74sG6d0Q019bobGVWfaCTlOk-PQWadC6NS29FV2U~xMNrfREUnDT2a2t5FeL5drMycLJy3XZ3LpJIHf0KviMepPgZYcnZcjoTfsJ~7JvyIXfkT1Hd36J2JVt6qntsImgcjUAuZuMKU-nZ45HiA1e3FTqzQYPhIIkOGEcOhIFqv1cAUfBMYkKGVwRehUT79vcYdt45LM-~XoMVGn~94YwbqK1GBriS5vEiLvO1bjy2wWTRcDT9fmsqc-8X8vE-Qc45sZSTmrwj37ta4SZ4EAB85FpvmwHq75OdVv6mNJvvtg__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\pipelines\base.py", line 288, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\modeling_utils.py", line 3598, in from_pretrained
+    resolved_archive_file = cached_file(pretrained_model_name_or_path, filename, **cached_file_kwargs)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\utils\hub.py", line 403, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_deprecation.py", line 101, in inner_f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1232, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1381, in _hf_hub_download_to_cache_dir
+    _download_to_tmp_and_move(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1915, in _download_to_tmp_and_move
+    http_get(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 455, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 387, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 93, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: (MaxRetryError("HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727773882&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3Mzg4Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=TC6OPjtzj0zprK6WvJ6mIq70zPnKnGZ1XG-mXd47qpt74sG6d0Q019bobGVWfaCTlOk-PQWadC6NS29FV2U~xMNrfREUnDT2a2t5FeL5drMycLJy3XZ3LpJIHf0KviMepPgZYcnZcjoTfsJ~7JvyIXfkT1Hd36J2JVt6qntsImgcjUAuZuMKU-nZ45HiA1e3FTqzQYPhIIkOGEcOhIFqv1cAUfBMYkKGVwRehUT79vcYdt45LM-~XoMVGn~94YwbqK1GBriS5vEiLvO1bjy2wWTRcDT9fmsqc-8X8vE-Qc45sZSTmrwj37ta4SZ4EAB85FpvmwHq75OdVv6mNJvvtg__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))"), '(Request ID: fab24cb1-aac1-49b8-9f68-2197610d9b75)')
+
+
+
+2024-09-28 15:15:55,784 - ERROR - Error loading NLP models: Could not load model facebook/bart-large-cnn with any of the following classes: (<class 'transformers.models.auto.modeling_auto.AutoModelForSeq2SeqLM'>, <class 'transformers.models.bart.modeling_bart.BartForConditionalGeneration'>). See the original errors:
+
+while loading with AutoModelForSeq2SeqLM, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1042, in _create
+    self.do_handshake()
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1320, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727775952&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3NTk1Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=suj32Z90AKvxwhuv4XDNmRE2yMlcz-~vxeWkSmIXNq5Ava38Ne2D19ZmeOCn0kS6BJRq4ZIFotJIQsKkwSq7XGAWykj~pw~jfSxF9nlTHk0Bu5iVKxGlc-8D8DRKNS-Pt0j~b0HA2JgyvTKvJsNNE5xwoKuwRIXAC6Ir~agfvj8X-nCfL-Y~aL2snMvrpROnoXZ0QdPq~-Har8CypcKYMHViw6158ymwBqz6fa8ibbaebw8Xrqm-H3cfUKdbPnKstAts371xiyYRa0rHNjVqdCT1qmrtdcdziM6uxZsFHsXLwMCEiUJtd4Gze8Se2G8pCoQQsJ8FXxtQFxAw27jGmg__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\pipelines\base.py", line 288, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\models\auto\auto_factory.py", line 564, in from_pretrained
+    return model_class.from_pretrained(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\modeling_utils.py", line 3598, in from_pretrained
+    resolved_archive_file = cached_file(pretrained_model_name_or_path, filename, **cached_file_kwargs)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\utils\hub.py", line 403, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_deprecation.py", line 101, in inner_f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1232, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1381, in _hf_hub_download_to_cache_dir
+    _download_to_tmp_and_move(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1915, in _download_to_tmp_and_move
+    http_get(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 455, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 387, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 93, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: (MaxRetryError("HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727775952&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3NTk1Mn19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=suj32Z90AKvxwhuv4XDNmRE2yMlcz-~vxeWkSmIXNq5Ava38Ne2D19ZmeOCn0kS6BJRq4ZIFotJIQsKkwSq7XGAWykj~pw~jfSxF9nlTHk0Bu5iVKxGlc-8D8DRKNS-Pt0j~b0HA2JgyvTKvJsNNE5xwoKuwRIXAC6Ir~agfvj8X-nCfL-Y~aL2snMvrpROnoXZ0QdPq~-Har8CypcKYMHViw6158ymwBqz6fa8ibbaebw8Xrqm-H3cfUKdbPnKstAts371xiyYRa0rHNjVqdCT1qmrtdcdziM6uxZsFHsXLwMCEiUJtd4Gze8Se2G8pCoQQsJ8FXxtQFxAw27jGmg__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))"), '(Request ID: 7fac5d7c-bf20-4ef6-bde4-75077485bd85)')
+
+while loading with BartForConditionalGeneration, an error is thrown:
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 730, in connect
+    sock_and_verified = _ssl_wrap_socket_and_match_hostname(
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connection.py", line 909, in _ssl_wrap_socket_and_match_hostname
+    ssl_sock = ssl_wrap_socket(
+               ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 469, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(sock, context, tls_in_tls, server_hostname)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\ssl_.py", line 513, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 455, in wrap_socket
+    return self.sslsocket_class._create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1042, in _create
+    self.do_handshake()
+  File "C:\Program Files\Python312\Lib\ssl.py", line 1320, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 490, in _make_request
+    raise new_e
+urllib3.exceptions.SSLError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727775954&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3NTk1NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=jsfucalLceqjznZaxCfAZYcI2Qb4q3606B9kQUBDoxKwlwiQd13egwBfHmMmFBIxmQj-2yYGcF1MA6LR~WAeqGxJLbMVieRj4uLlFNj1PssKuEnnpYsli2X8UEQpDC88TB53KxJvwxWxlXRmX0MzdlGErumotPU72FHIrY0HOJVuYUCnX1yxamSkYGkqIqc8gMHfYH5FlVfskXeNzFegRW8eNf1RmnK3aSEtj6jko-8t7007EDk~3AXwKGzYY7t82Gb1vUZ-hWFqPL8XPwBVrhKouyQt3FxgRKAqs3VmQVGLp0afwF09QTMHDWZjWArDee9h6FzzgZiSvFyHOmc57w__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\pipelines\base.py", line 288, in infer_framework_load_model
+    model = model_class.from_pretrained(model, **kwargs)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\modeling_utils.py", line 3598, in from_pretrained
+    resolved_archive_file = cached_file(pretrained_model_name_or_path, filename, **cached_file_kwargs)
+                            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\utils\hub.py", line 403, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_deprecation.py", line 101, in inner_f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1232, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1381, in _hf_hub_download_to_cache_dir
+    _download_to_tmp_and_move(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1915, in _download_to_tmp_and_move
+    http_get(
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 455, in http_get
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 387, in _request_wrapper
+    response = get_session().request(method=method, url=url, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 93, in send
+    return super().send(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\adapters.py", line 698, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: (MaxRetryError("HTTPSConnectionPool(host='cdn-lfs.hf.co', port=443): Max retries exceeded with url: /facebook/bart-large-cnn/40041830399afb5348525ef8354b007ecec4286fdf3524f7e6b54377e17096cb?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27model.safetensors%3B+filename%3D%22model.safetensors%22%3B&Expires=1727775954&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTcyNzc3NTk1NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9mYWNlYm9vay9iYXJ0LWxhcmdlLWNubi80MDA0MTgzMDM5OWFmYjUzNDg1MjVlZjgzNTRiMDA3ZWNlYzQyODZmZGYzNTI0ZjdlNmI1NDM3N2UxNzA5NmNiP3Jlc3BvbnNlLWNvbnRlbnQtZGlzcG9zaXRpb249KiJ9XX0_&Signature=jsfucalLceqjznZaxCfAZYcI2Qb4q3606B9kQUBDoxKwlwiQd13egwBfHmMmFBIxmQj-2yYGcF1MA6LR~WAeqGxJLbMVieRj4uLlFNj1PssKuEnnpYsli2X8UEQpDC88TB53KxJvwxWxlXRmX0MzdlGErumotPU72FHIrY0HOJVuYUCnX1yxamSkYGkqIqc8gMHfYH5FlVfskXeNzFegRW8eNf1RmnK3aSEtj6jko-8t7007EDk~3AXwKGzYY7t82Gb1vUZ-hWFqPL8XPwBVrhKouyQt3FxgRKAqs3VmQVGLp0afwF09QTMHDWZjWArDee9h6FzzgZiSvFyHOmc57w__&Key-Pair-Id=K3RPWS32NSSJCE (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1000)')))"), '(Request ID: 4ac13251-7931-42ab-b8d9-c61f29c15f11)')
+
+
+

@@ -1,0 +1,176 @@
+Setup Guide for Email and Data Analysis System
+
+#1. Python Environment Setup
+
+# Create Virtual Environment
+
+# Navigate to your project directory
+cd "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\Outlook_automation"
+
+# Create virtual environment
+python -m venv venv
+
+# Activate virtual environment
+venv\Scripts\activate
+
+
+# Install Required Python Packages
+
+# Core packages
+pip install pywin32         # For Outlook integration
+pip install nltk           # For text processing
+pip install reportlab      # For PDF generation
+pip install tqdm          # For progress bars
+pip install llama-cpp-python  # For local LLM integration
+
+# Additional utilities
+pip install numpy         # For numerical operations
+pip install pandas        # For data manipulation
+pip install python-dotenv # For environment variables
+
+
+# 2. Install Visual Studio Build Tools
+1. Download Visual Studio Build Tools:
+   - Visit: https://visualstudio.microsoft.com/visual-cpp-build-tools/
+   - Click "Download Build Tools"
+
+2. Run the installer and select:
+   - Desktop development with C++
+   - MSVC Build Tools
+   - Windows 10/11 SDK
+   - C++ CMake tools for Windows
+
+#3. LLAMA Model Setup
+
+# Download GGUF Model
+1. Create models directory:
+
+mkdir llama.cpp\models
+
+
+2. Download model from Hugging Face:
+   - Visit: https://huggingface.co/TheBloke/Llama-2-13B-Chat-GGUF
+   - Download: "llama-2-13b-chat.Q4_K_M.gguf"
+   - Place in: `llama.cpp\models` directory
+
+# Model Configuration
+The model configuration is handled in the code with these parameters:
+python script: 
+llm = Llama(
+    model_path=model_path,
+    n_ctx=2048,          # Context window
+    n_batch=512,         # Batch size
+    n_threads=6          # CPU threads
+    n_gpu_layers=0       # CPU-only mode
+)
+
+
+# 4. Project Directory Structure
+
+Outlook_automation/
+├── venv/                 # Virtual environment
+├── llama.cpp/
+│   └── models/          # GGUF model files
+│       └── llama-2-13b-chat.Q4_K_M.gguf
+├── output/              # Generated reports
+├── logs/               # Log files
+└── scripts/            # Python scripts
+
+
+# 5. Environment Variables (Optional)
+Create a `.env` file in your project root:
+env
+MODEL_PATH=llama.cpp/models/llama-2-13b-chat.Q4_K_M.gguf
+LOG_LEVEL=INFO
+OUTPUT_DIR=output
+
+
+# 6. System Requirements for local windows system with CPU
+
+# Minimum Hardware Requirements:
+- RAM: 16GB (32GB recommended)
+- Storage: 10GB free space
+- CPU: Modern multi-core processor
+
+# Software Requirements:
+- Windows 10/11
+- Python 3.8 or higher
+- Microsoft Outlook (installed and configured)
+- Visual Studio Build Tools 2019 or later
+
+# 7. Verification Steps
+
+# Test Python Environment
+
+# Activate environment
+venv\Scripts\activate
+
+# Verify installations
+python -c "import win32com.client; print('Outlook integration OK')"
+python -c "import llama_cpp; print('LLAMA integration OK')"
+
+
+# Test LLAMA Model
+python
+from llama_cpp import Llama
+
+def test_model():
+    try:
+        model = Llama(
+            model_path="llama.cpp/models/llama-2-13b-chat.Q4_K_M.gguf",
+            n_ctx=2048,
+            n_batch=512,
+            n_threads=6
+        )
+        response = model.create_completion("Test prompt", max_tokens=10)
+        print("Model test successful")
+        return True
+    except Exception as e:
+        print(f"Model test failed: {e}")
+        return False
+
+test_model()
+
+
+# 8. Common Issues and Solutions
+
+# Build Tools Issues
+If you encounter build errors:
+
+# Reinstall llama-cpp-python with specific compiler
+pip uninstall llama-cpp-python
+pip install llama-cpp-python --no-cache-dir --verbose
+
+
+# Model Loading Issues
+If the model fails to load:
+1. Check file permissions
+2. Verify model path
+3. Ensure sufficient RAM
+4. Try reducing batch size or context window
+
+# Outlook Integration Issues
+1. Ensure Outlook is installed and running
+2. Run Python as administrator if needed
+3. Check Outlook security settings
+
+# 9. Maintenance
+
+# Regular Updates
+
+# Update packages
+pip install --upgrade llama-cpp-python
+pip install --upgrade -r requirements.txt
+
+# Clean environment (if needed)
+pip freeze > requirements.txt
+deactivate
+rm -rf venv
+python -m venv venv
+pip install -r requirements.txt
+
+
+# Log Management
+- Regular log rotation
+- Monitor disk space
+- Archive old reports

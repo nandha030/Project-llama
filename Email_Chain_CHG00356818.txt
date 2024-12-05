@@ -1,0 +1,3346 @@
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=408BDFBB2F09491BB6FEA3E8FB964A54-KRISHK7
+Received: 2024-11-26 17:25:00.614000+00:00
+Body:
+Hi Mohammed,
+
+ 
+
+Thank you for the confirmation. We will proceed to close the change. It was a pleasure working with you
+
+ 
+
+ 
+
+Thanks & Regards,
+
+Kavitha Krishnan
+
+Senior Engineer, Modern Cloud & Application Services
+
+Dell Technologies| Professional, Managed & Field Services
+
+Mobile : +91-9901168394
+
+Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+ 
+
+ 
+
+
+Internal Use - Confidential
+
+
+From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au> 
+Sent: Tuesday, November 26, 2024 4:51 PM
+To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com>
+Cc: Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com>; ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com>; WFM-KCD <wfm-kcd@woolworths.com.au>; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS-CMS L1 <IMS-CMSL1@emc.com>; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>
+Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Kavitha,
+
+We have completed the verification .Certificates have been renewed for kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au/__;!!LpKI!ggPwrQ4k-xeohY1EhJxveHlvCXGRwh2fnpf0S8W_fg3TeLWnU4aBDjLuq5M-ZFV6fYHqzMsSHz_QYIV9xTmAaIHXHhk6Hw$>  and kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au/__;!!LpKI!ggPwrQ4k-xeohY1EhJxveHlvCXGRwh2fnpf0S8W_fg3TeLWnU4aBDjLuq5M-ZFV6fYHqzMsSHz_QYIV9xTmAaIFxwJid5g$>  .
+
+ 
+
+On Tue, 26 Nov 2024 at 16:39, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+	Hi Team,
+
+	 
+
+	As agreed, Certificates have been renewed for kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ggPwrQ4k-xeohY1EhJxveHlvCXGRwh2fnpf0S8W_fg3TeLWnU4aBDjLuq5M-ZFV6fYHqzMsSHz_QYIV9xTmAaIHGVDj1nQ$> 
+
+	kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ggPwrQ4k-xeohY1EhJxveHlvCXGRwh2fnpf0S8W_fg3TeLWnU4aBDjLuq5M-ZFV6fYHqzMsSHz_QYIV9xTmAaIG_9Lp-zA$>  except kronosv81cloudppwdmaz.woolworths.com.au [kronosv81cloudppwdmaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppwdmaz.woolworths.com.au__;!!LpKI!ggPwrQ4k-xeohY1EhJxveHlvCXGRwh2fnpf0S8W_fg3TeLWnU4aBDjLuq5M-ZFV6fYHqzMsSHz_QYIV9xTmAaIETZmQJFA$> ..
+
+	 
+
+	Please proceed with the BVT and confirm the same.
+
+	 
+
+	 
+
+	Thanks & Regards,
+
+	Kavitha Krishnan
+
+	Senior Engineer, Modern Cloud & Application Services
+
+	Dell Technologies| Professional, Managed & Field Services
+
+	Mobile : +91-9901168394
+
+	Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: Tuesday, November 26, 2024 3:31 PM
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >; Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> >
+	Cc: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	This is to inform you that we would be initiating the change CHG00356818 for Renewing the ALB Certificate on Kronos PREPROD Environment.
+
+	 
+
+	Thanks & Regards,
+
+	Kavitha Krishnan
+
+	Senior Engineer, Modern Cloud & Application Services
+
+	Dell Technologies| Professional, Managed & Field Services
+
+	Mobile : +91-9901168394
+
+	Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+	Sent: Tuesday, November 26, 2024 1:11 PM
+	To: Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> >
+	Cc: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Siva - Dell Team
+	
+	We have received all group approval .
+	
+	
+
+	 
+
+	On Tue, 26 Nov 2024 at 10:52, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+		Hi @Mohammed Aashiq (TCS) <mailto:maashiq@tcs.woolworths.com.au> ,
+
+		 
+
+		The change is still pending approval from below groups. We have been following up with the pending groups, requesting your help as well.
+
+		Scheduled on 26th Nov @9PM AEDT.
+
+		 
+
+		
+
+		 
+
+		 
+
+		Please let us know if you have any queries.
+
+		 
+
+		Thanks & regards,
+
+		Siva Krishna
+
+		 
+
+		Internal Use - Confidential
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: 22 November 2024 10:22
+		To: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal 
+
+		 
+
+		Hi Karthik,
+
+		 
+
+		CHG00356818 is in the "change review" state, with all certificates and changes in place..
+
+		 
+
+		Regards,
+
+		 
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> > 
+		Sent: Friday, November 22, 2024 10:14 AM
+		To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Hi Mohanmmed,
+
+		 
+
+		 
+
+		Do we have an update ?
+
+		 
+
+		 
+
+		Regards,
+
+		Karthik Chengappa K
+
+		Mobile : +91 9880174185 (India)  
+
+		karthik.chengappakollimada@dell.com <mailto:karthik.chengappakollimada@dell.com> 
+
+		
+
+		 
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: 20 November 2024 20:01
+		To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Please use the CSR Files to create the certificates and do not make any changes to the Key files.
+
+		 
+
+		Thanks, and Regards,
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: Wednesday, November 20, 2024 7:22 PM
+		To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		Please refer the files attached in the below mentioned FTP link.
+
+		 
+
+Host: 
+
+https://mft.dell.com
+
+Username: 
+
+mfttdQUTpb8h
+
+Password: 
+
+Welcome@12345
+
+		 
+
+		 
+
+		Regards,
+
+		 
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+		Sent: Wednesday, November 20, 2024 6:38 PM
+		To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kavitha,
+		As discussed please find the Information below for PREPROD UI , API and WDM servers to  generate CSR.
+		
+		PREPROPD_UI_Servers:
+		Load Balancer UI: https://kronosv81cloudppaz.woolworths.com.au/wfc/logon [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAZtKGYZoQ$> 
+		Port : 443
+		Common Name:kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAaJ-FXVmQ$> 
+		Organization Name: Woolworths Group
+		Organization Unit: IT
+		Locality: Bella Vista
+		State : New South Wales
+		Country : AU
+		Message algorithm :sha256
+		Key Size :  2048
+		
+		PREPROD_ API _Servers:
+		Load Balance  API :https://kronosv81cloudppapiaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+		Port:443
+		Common Name:kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+		Organization Name: Woolworths Group
+		Organization Unit: IT
+		Locality: Bella Vista
+		State : New South Wales
+		Country : AU
+		Message algorithm :sha256
+		Key Size :  2048
+		
+		PREPROD_ WDM _Servers:
+		Load Balance  WDM :https://kronosv81cloudppwdmaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+		Port:443
+		Common Name:kronosv81cloudppwdmaz [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> .woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+		Organization Name: Woolworths Group
+		Organization Unit: IT
+		Locality: Bella Vista
+		State : New South Wales
+		Country : AU
+		Message algorithm :sha256
+		Key Size :  2048
+
+		 
+
+		On Tue, 19 Nov 2024 at 20:56, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+			Dell Customer Communication - Confidential
+
+			 
+
+			Hi Mohammed,
+
+			 
+
+			As discussed, could you please share the certificate and key along with the answers to the following questions:
+
+			 
+
+			1.	During the implementation, 1-2 ping drops are expected. Could you please confirm if there will be any impact on Kronos, or if there are any other applications utilizing this load balancer?
+			2.	Could you also provide the details of the host/VMs used by this load balancer?
+
+			 
+
+			 
+
+			Thanks & Regards,
+
+			Kavitha Krishnan
+
+			Senior Engineer, Modern Cloud & Application Services
+
+			Dell Technologies| Professional, Managed & Field Services
+
+			Mobile : +91-9901168394
+
+			Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+			 
+
+			 
+
+			From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+			Sent: Tuesday, November 19, 2024 2:53 PM
+			To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+			Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+			Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+			 
+
+			Hi Mohammed,
+
+			 
+
+			If you have created the CSR that’s good.. please share the certificate and Key to proceed further.
+
+			 
+
+			Please note I don’t have access to the link that you have shared.
+
+			 
+
+			Regards,
+
+			 
+
+			Kavitha Krishnan
+
+			 
+
+			 
+
+			Internal Use - Confidential
+
+			 
+
+			Internal Use - Confidential
+
+			From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+			Sent: Tuesday, November 19, 2024 12:36 PM
+			To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+			Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+			Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+			 
+
+			[EXTERNAL EMAIL] 
+
+			Hi Kavitha,
+			
+			We have already generated the CSR file from our end. If you want, I will share the CSR details will you.
+			
+			I will set up a call this week Thursday at 12.30PM AEST to discuss this in detail.
+
+			
+			Meet link : https://meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123 [meet.google.com] <https://urldefense.com/v3/__https:/meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123__;!!LpKI!gznKEZ-qLGZIFo_BxGjQSa-od0Anncp8ke4AI6vMenp77ZhqaJdI3QhGjoXy3TehDWtd-c2aS6OdFemUywmm_j8zIampJw$> 
+
+			 
+
+			-- 
+
+			Thanks & Regards
+
+			Mohammed Aashiq | People Systems - Time 
+
+			WFM DevOps -Offshore
+
+			p | +91 7708875533 
+
+			e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+			g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+			 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+			 
+
+			 
+
+			CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+		
+		
+
+		 
+
+		-- 
+
+		Thanks & Regards
+
+		Mohammed Aashiq | People Systems - Time 
+
+		WFM DevOps -Offshore
+
+		p | +91 7708875533 
+
+		e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+		g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+		 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+		 
+
+		
+		
+
+		 
+
+		-- 
+
+		Thanks & Regards
+
+		Mohammed Aashiq | People Systems - Time 
+
+		WFM DevOps -Offshore
+
+		p | +91 7708875533 
+
+		e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+		g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+		 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+		 
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+
+
+ 
+
+-- 
+
+Thanks & Regards
+
+Mohammed Aashiq | People Systems - Time 
+
+WFM DevOps -Offshore
+
+p | +91 7708875533 
+
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+ 
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: Re: Kronos PREPROD Environment Certificate Renewal
+From: maashiq@tcs.woolworths.com.au
+Received: 2024-11-26 16:52:02.107000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Kavitha,
+
+
+We have completed the verification .Certificates have been renewed for kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http://kronosv81cloudppaz.woolworths.com.au/__;!!LpKI!h27ThXh25gMa0q3evY1bJQNLJ_eC2cZjKBNJFwmRTsGbCli9Ur0Y3N1VIDx32XUbK9HCQMwPiscQPKGLsKG4pAStYw$>  and kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http://kronosv81cloudppapiaz.woolworths.com.au/__;!!LpKI!h27ThXh25gMa0q3evY1bJQNLJ_eC2cZjKBNJFwmRTsGbCli9Ur0Y3N1VIDx32XUbK9HCQMwPiscQPKGLsKF9T_ft1Q$>  .
+
+On Tue, 26 Nov 2024 at 16:39, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+
+	Hi Team,
+
+	 
+
+	As agreed, Certificates have been renewed for kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http://kronosv81cloudppaz.woolworths.com.au__;!!LpKI!h27ThXh25gMa0q3evY1bJQNLJ_eC2cZjKBNJFwmRTsGbCli9Ur0Y3N1VIDx32XUbK9HCQMwPiscQPKGLsKHJIw15Rw$> 
+
+	kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http://kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!h27ThXh25gMa0q3evY1bJQNLJ_eC2cZjKBNJFwmRTsGbCli9Ur0Y3N1VIDx32XUbK9HCQMwPiscQPKGLsKHHqEuspA$>  except kronosv81cloudppwdmaz.woolworths.com.au [kronosv81cloudppwdmaz.woolworths.com.au] <https://urldefense.com/v3/__http://kronosv81cloudppwdmaz.woolworths.com.au__;!!LpKI!h27ThXh25gMa0q3evY1bJQNLJ_eC2cZjKBNJFwmRTsGbCli9Ur0Y3N1VIDx32XUbK9HCQMwPiscQPKGLsKHkqsbqaw$> ..
+
+	 
+
+	Please proceed with the BVT and confirm the same.
+
+	 
+
+	 
+
+	Thanks & Regards,
+
+	Kavitha Krishnan
+
+	Senior Engineer, Modern Cloud & Application Services
+
+	Dell Technologies| Professional, Managed & Field Services
+
+	Mobile : +91-9901168394
+
+	Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+	 
+
+	 
+
+
+	Internal Use - Confidential
+	
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: Tuesday, November 26, 2024 3:31 PM
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >; Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> >
+	Cc: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	This is to inform you that we would be initiating the change CHG00356818 for Renewing the ALB Certificate on Kronos PREPROD Environment.
+
+	 
+
+	Thanks & Regards,
+
+	Kavitha Krishnan
+
+	Senior Engineer, Modern Cloud & Application Services
+
+	Dell Technologies| Professional, Managed & Field Services
+
+	Mobile : +91-9901168394
+
+	Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+	Sent: Tuesday, November 26, 2024 1:11 PM
+	To: Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> >
+	Cc: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Siva - Dell Team
+	
+	We have received all group approval .
+	
+	
+
+	 
+
+	On Tue, 26 Nov 2024 at 10:52, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+		Hi @Mohammed Aashiq (TCS) <mailto:maashiq@tcs.woolworths.com.au> ,
+
+		 
+
+		The change is still pending approval from below groups. We have been following up with the pending groups, requesting your help as well.
+
+		Scheduled on 26th Nov @9PM AEDT.
+
+		 
+
+		
+
+		 
+
+		 
+
+		Please let us know if you have any queries.
+
+		 
+
+		Thanks & regards,
+
+		Siva Krishna
+
+		 
+
+		Internal Use - Confidential
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: 22 November 2024 10:22
+		To: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal 
+
+		 
+
+		Hi Karthik,
+
+		 
+
+		CHG00356818 is in the "change review" state, with all certificates and changes in place..
+
+		 
+
+		Regards,
+
+		 
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> > 
+		Sent: Friday, November 22, 2024 10:14 AM
+		To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Hi Mohanmmed,
+
+		 
+
+		 
+
+		Do we have an update ?
+
+		 
+
+		 
+
+		Regards,
+
+		Karthik Chengappa K
+
+		Mobile : +91 9880174185 (India)  
+
+		karthik.chengappakollimada@dell.com <mailto:karthik.chengappakollimada@dell.com> 
+
+		
+
+		 
+
+		 
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: 20 November 2024 20:01
+		To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Please use the CSR Files to create the certificates and do not make any changes to the Key files.
+
+		 
+
+		Thanks, and Regards,
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: Wednesday, November 20, 2024 7:22 PM
+		To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		Please refer the files attached in the below mentioned FTP link.
+
+		 
+
+Host: 
+
+https://mft.dell.com
+
+Username: 
+
+mfttdQUTpb8h
+
+Password: 
+
+Welcome@12345
+
+		 
+
+		 
+
+		Regards,
+
+		 
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+		Sent: Wednesday, November 20, 2024 6:38 PM
+		To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kavitha,
+		As discussed please find the Information below for PREPROD UI , API and WDM servers to  generate CSR.
+		
+		PREPROPD_UI_Servers:
+		Load Balancer UI: https://kronosv81cloudppaz.woolworths.com.au/wfc/logon [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAZtKGYZoQ$> 
+		Port : 443
+		Common Name:kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAaJ-FXVmQ$> 
+		Organization Name: Woolworths Group
+		Organization Unit: IT
+		Locality: Bella Vista
+		State : New South Wales
+		Country : AU
+		Message algorithm :sha256
+		Key Size :  2048
+		
+		PREPROD_ API _Servers:
+		Load Balance  API :https://kronosv81cloudppapiaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+		Port:443
+		Common Name:kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+		Organization Name: Woolworths Group
+		Organization Unit: IT
+		Locality: Bella Vista
+		State : New South Wales
+		Country : AU
+		Message algorithm :sha256
+		Key Size :  2048
+		
+		PREPROD_ WDM _Servers:
+		Load Balance  WDM :https://kronosv81cloudppwdmaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+		Port:443
+		Common Name:kronosv81cloudppwdmaz [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> .woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+		Organization Name: Woolworths Group
+		Organization Unit: IT
+		Locality: Bella Vista
+		State : New South Wales
+		Country : AU
+		Message algorithm :sha256
+		Key Size :  2048
+
+		 
+
+		On Tue, 19 Nov 2024 at 20:56, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+			Dell Customer Communication - Confidential
+
+			 
+
+			Hi Mohammed,
+
+			 
+
+			As discussed, could you please share the certificate and key along with the answers to the following questions:
+
+			 
+
+			1.	During the implementation, 1-2 ping drops are expected. Could you please confirm if there will be any impact on Kronos, or if there are any other applications utilizing this load balancer?
+			2.	Could you also provide the details of the host/VMs used by this load balancer?
+
+			 
+
+			 
+
+			Thanks & Regards,
+
+			Kavitha Krishnan
+
+			Senior Engineer, Modern Cloud & Application Services
+
+			Dell Technologies| Professional, Managed & Field Services
+
+			Mobile : +91-9901168394
+
+			Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+			 
+
+			 
+
+			From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+			Sent: Tuesday, November 19, 2024 2:53 PM
+			To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+			Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+			Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+			 
+
+			Hi Mohammed,
+
+			 
+
+			If you have created the CSR that’s good.. please share the certificate and Key to proceed further.
+
+			 
+
+			Please note I don’t have access to the link that you have shared.
+
+			 
+
+			Regards,
+
+			 
+
+			Kavitha Krishnan
+
+			 
+
+			 
+
+			Internal Use - Confidential
+
+			 
+
+			Internal Use - Confidential
+
+			From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+			Sent: Tuesday, November 19, 2024 12:36 PM
+			To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+			Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+			Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+			 
+
+			[EXTERNAL EMAIL] 
+
+			Hi Kavitha,
+			
+			We have already generated the CSR file from our end. If you want, I will share the CSR details will you.
+			
+			I will set up a call this week Thursday at 12.30PM AEST to discuss this in detail.
+
+			
+			Meet link : https://meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123 [meet.google.com] <https://urldefense.com/v3/__https:/meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123__;!!LpKI!gznKEZ-qLGZIFo_BxGjQSa-od0Anncp8ke4AI6vMenp77ZhqaJdI3QhGjoXy3TehDWtd-c2aS6OdFemUywmm_j8zIampJw$> 
+
+			 
+
+			-- 
+
+			Thanks & Regards
+
+			Mohammed Aashiq | People Systems - Time 
+
+			WFM DevOps -Offshore
+
+			p | +91 7708875533 
+
+			e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+			g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+			 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+			 
+
+			 
+
+			CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+		
+		
+
+		 
+
+		-- 
+
+		Thanks & Regards
+
+		Mohammed Aashiq | People Systems - Time 
+
+		WFM DevOps -Offshore
+
+		p | +91 7708875533 
+
+		e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+		g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+		 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+		 
+
+		
+		
+
+		 
+
+		-- 
+
+		Thanks & Regards
+
+		Mohammed Aashiq | People Systems - Time 
+
+		WFM DevOps -Offshore
+
+		p | +91 7708875533 
+
+		e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+		g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+		 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+		 
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+
+-- 
+
+Thanks & Regards
+Mohammed Aashiq | People Systems - Time 
+WFM DevOps -Offshore
+p | +91 7708875533 
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=408BDFBB2F09491BB6FEA3E8FB964A54-KRISHK7
+Received: 2024-11-26 16:39:15.331000+00:00
+Body:
+Hi Team,
+
+ 
+
+As agreed, Certificates have been renewed for kronosv81cloudppaz.woolworths.com.au
+
+kronosv81cloudppapiaz.woolworths.com.au except kronosv81cloudppwdmaz.woolworths.com.au..
+
+ 
+
+Please proceed with the BVT and confirm the same.
+
+ 
+
+ 
+
+Thanks & Regards,
+
+Kavitha Krishnan
+
+Senior Engineer, Modern Cloud & Application Services
+
+Dell Technologies| Professional, Managed & Field Services
+
+Mobile : +91-9901168394
+
+Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+ 
+
+ 
+
+
+Internal Use - Confidential
+
+
+From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com> 
+Sent: Tuesday, November 26, 2024 3:31 PM
+To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au>; Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com>
+Cc: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com>; WFM-KCD <wfm-kcd@woolworths.com.au>; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS-CMS L1 <IMS-CMSL1@emc.com>; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Hi Mohammed,
+
+ 
+
+This is to inform you that we would be initiating the change CHG00356818 for Renewing the ALB Certificate on Kronos PREPROD Environment.
+
+ 
+
+Thanks & Regards,
+
+Kavitha Krishnan
+
+Senior Engineer, Modern Cloud & Application Services
+
+Dell Technologies| Professional, Managed & Field Services
+
+Mobile : +91-9901168394
+
+Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+Sent: Tuesday, November 26, 2024 1:11 PM
+To: Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> >
+Cc: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Siva - Dell Team
+
+We have received all group approval .
+
+
+
+ 
+
+On Tue, 26 Nov 2024 at 10:52, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+	Hi @Mohammed Aashiq (TCS) <mailto:maashiq@tcs.woolworths.com.au> ,
+
+	 
+
+	The change is still pending approval from below groups. We have been following up with the pending groups, requesting your help as well.
+
+	Scheduled on 26th Nov @9PM AEDT.
+
+	 
+
+	
+
+	 
+
+	 
+
+	Please let us know if you have any queries.
+
+	 
+
+	Thanks & regards,
+
+	Siva Krishna
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: 22 November 2024 10:22
+	To: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal 
+
+	 
+
+	Hi Karthik,
+
+	 
+
+	CHG00356818 is in the "change review" state, with all certificates and changes in place..
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> > 
+	Sent: Friday, November 22, 2024 10:14 AM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohanmmed,
+
+	 
+
+	 
+
+	Do we have an update ?
+
+	 
+
+	 
+
+	Regards,
+
+	Karthik Chengappa K
+
+	Mobile : +91 9880174185 (India)  
+
+	karthik.chengappakollimada@dell.com <mailto:karthik.chengappakollimada@dell.com> 
+
+	
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: 20 November 2024 20:01
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Please use the CSR Files to create the certificates and do not make any changes to the Key files.
+
+	 
+
+	Thanks, and Regards,
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: Wednesday, November 20, 2024 7:22 PM
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	Please refer the files attached in the below mentioned FTP link.
+
+	 
+
+Host: 
+
+https://mft.dell.com
+
+Username: 
+
+mfttdQUTpb8h
+
+Password: 
+
+Welcome@12345
+
+	 
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+	Sent: Wednesday, November 20, 2024 6:38 PM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Kavitha,
+	As discussed please find the Information below for PREPROD UI , API and WDM servers to  generate CSR.
+	
+	PREPROPD_UI_Servers:
+	Load Balancer UI: https://kronosv81cloudppaz.woolworths.com.au/wfc/logon [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAZtKGYZoQ$> 
+	Port : 443
+	Common Name:kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAaJ-FXVmQ$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+	
+	PREPROD_ API _Servers:
+	Load Balance  API :https://kronosv81cloudppapiaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+	Port:443
+	Common Name:kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+	
+	PREPROD_ WDM _Servers:
+	Load Balance  WDM :https://kronosv81cloudppwdmaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+	Port:443
+	Common Name:kronosv81cloudppwdmaz [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> .woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+
+	 
+
+	On Tue, 19 Nov 2024 at 20:56, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+		Dell Customer Communication - Confidential
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		As discussed, could you please share the certificate and key along with the answers to the following questions:
+
+		 
+
+		1.	During the implementation, 1-2 ping drops are expected. Could you please confirm if there will be any impact on Kronos, or if there are any other applications utilizing this load balancer?
+		2.	Could you also provide the details of the host/VMs used by this load balancer?
+
+		 
+
+		 
+
+		Thanks & Regards,
+
+		Kavitha Krishnan
+
+		Senior Engineer, Modern Cloud & Application Services
+
+		Dell Technologies| Professional, Managed & Field Services
+
+		Mobile : +91-9901168394
+
+		Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+		 
+
+		 
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: Tuesday, November 19, 2024 2:53 PM
+		To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		If you have created the CSR that’s good.. please share the certificate and Key to proceed further.
+
+		 
+
+		Please note I don’t have access to the link that you have shared.
+
+		 
+
+		Regards,
+
+		 
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		 
+
+		Internal Use - Confidential
+
+		From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+		Sent: Tuesday, November 19, 2024 12:36 PM
+		To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kavitha,
+		
+		We have already generated the CSR file from our end. If you want, I will share the CSR details will you.
+		
+		I will set up a call this week Thursday at 12.30PM AEST to discuss this in detail.
+
+		
+		Meet link : https://meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123 [meet.google.com] <https://urldefense.com/v3/__https:/meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123__;!!LpKI!gznKEZ-qLGZIFo_BxGjQSa-od0Anncp8ke4AI6vMenp77ZhqaJdI3QhGjoXy3TehDWtd-c2aS6OdFemUywmm_j8zIampJw$> 
+
+		 
+
+		-- 
+
+		Thanks & Regards
+
+		Mohammed Aashiq | People Systems - Time 
+
+		WFM DevOps -Offshore
+
+		p | +91 7708875533 
+
+		e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+		g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+		 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+		 
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+
+
+ 
+
+-- 
+
+Thanks & Regards
+
+Mohammed Aashiq | People Systems - Time 
+
+WFM DevOps -Offshore
+
+p | +91 7708875533 
+
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+ 
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=408BDFBB2F09491BB6FEA3E8FB964A54-KRISHK7
+Received: 2024-11-26 15:30:49.169000+00:00
+Body:
+Hi Mohammed,
+
+ 
+
+This is to inform you that we would be initiating the change CHG00356818 for Renewing the ALB Certificate on Kronos PREPROD Environment.
+
+ 
+
+Thanks & Regards,
+
+Kavitha Krishnan
+
+Senior Engineer, Modern Cloud & Application Services
+
+Dell Technologies| Professional, Managed & Field Services
+
+Mobile : +91-9901168394
+
+Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+ 
+
+ 
+
+ 
+
+
+Internal Use - Confidential
+
+
+From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au> 
+Sent: Tuesday, November 26, 2024 1:11 PM
+To: Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com>
+Cc: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com>; ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com>; WFM-KCD <wfm-kcd@woolworths.com.au>; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS-CMS L1 <IMS-CMSL1@emc.com>; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>
+Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Siva - Dell Team
+
+We have received all group approval .
+
+
+
+ 
+
+On Tue, 26 Nov 2024 at 10:52, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+	Hi @Mohammed Aashiq (TCS) <mailto:maashiq@tcs.woolworths.com.au> ,
+
+	 
+
+	The change is still pending approval from below groups. We have been following up with the pending groups, requesting your help as well.
+
+	Scheduled on 26th Nov @9PM AEDT.
+
+	 
+
+	
+
+	 
+
+	 
+
+	Please let us know if you have any queries.
+
+	 
+
+	Thanks & regards,
+
+	Siva Krishna
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: 22 November 2024 10:22
+	To: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal 
+
+	 
+
+	Hi Karthik,
+
+	 
+
+	CHG00356818 is in the "change review" state, with all certificates and changes in place..
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> > 
+	Sent: Friday, November 22, 2024 10:14 AM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohanmmed,
+
+	 
+
+	 
+
+	Do we have an update ?
+
+	 
+
+	 
+
+	Regards,
+
+	Karthik Chengappa K
+
+	Mobile : +91 9880174185 (India)  
+
+	karthik.chengappakollimada@dell.com <mailto:karthik.chengappakollimada@dell.com> 
+
+	
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: 20 November 2024 20:01
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Please use the CSR Files to create the certificates and do not make any changes to the Key files.
+
+	 
+
+	Thanks, and Regards,
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: Wednesday, November 20, 2024 7:22 PM
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	Please refer the files attached in the below mentioned FTP link.
+
+	 
+
+Host: 
+
+https://mft.dell.com
+
+Username: 
+
+mfttdQUTpb8h
+
+Password: 
+
+Welcome@12345
+
+	 
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+	Sent: Wednesday, November 20, 2024 6:38 PM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Kavitha,
+	As discussed please find the Information below for PREPROD UI , API and WDM servers to  generate CSR.
+	
+	PREPROPD_UI_Servers:
+	Load Balancer UI: https://kronosv81cloudppaz.woolworths.com.au/wfc/logon [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAZtKGYZoQ$> 
+	Port : 443
+	Common Name:kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAaJ-FXVmQ$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+	
+	PREPROD_ API _Servers:
+	Load Balance  API :https://kronosv81cloudppapiaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+	Port:443
+	Common Name:kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+	
+	PREPROD_ WDM _Servers:
+	Load Balance  WDM :https://kronosv81cloudppwdmaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+	Port:443
+	Common Name:kronosv81cloudppwdmaz [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> .woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+
+	 
+
+	On Tue, 19 Nov 2024 at 20:56, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+		Dell Customer Communication - Confidential
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		As discussed, could you please share the certificate and key along with the answers to the following questions:
+
+		 
+
+		1.	During the implementation, 1-2 ping drops are expected. Could you please confirm if there will be any impact on Kronos, or if there are any other applications utilizing this load balancer?
+		2.	Could you also provide the details of the host/VMs used by this load balancer?
+
+		 
+
+		 
+
+		Thanks & Regards,
+
+		Kavitha Krishnan
+
+		Senior Engineer, Modern Cloud & Application Services
+
+		Dell Technologies| Professional, Managed & Field Services
+
+		Mobile : +91-9901168394
+
+		Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+		 
+
+		 
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: Tuesday, November 19, 2024 2:53 PM
+		To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		If you have created the CSR that’s good.. please share the certificate and Key to proceed further.
+
+		 
+
+		Please note I don’t have access to the link that you have shared.
+
+		 
+
+		Regards,
+
+		 
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		 
+
+		Internal Use - Confidential
+
+		From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+		Sent: Tuesday, November 19, 2024 12:36 PM
+		To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kavitha,
+		
+		We have already generated the CSR file from our end. If you want, I will share the CSR details will you.
+		
+		I will set up a call this week Thursday at 12.30PM AEST to discuss this in detail.
+
+		
+		Meet link : https://meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123 [meet.google.com] <https://urldefense.com/v3/__https:/meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123__;!!LpKI!gznKEZ-qLGZIFo_BxGjQSa-od0Anncp8ke4AI6vMenp77ZhqaJdI3QhGjoXy3TehDWtd-c2aS6OdFemUywmm_j8zIampJw$> 
+
+		 
+
+		-- 
+
+		Thanks & Regards
+
+		Mohammed Aashiq | People Systems - Time 
+
+		WFM DevOps -Offshore
+
+		p | +91 7708875533 
+
+		e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+		g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+		 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+		 
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+
+
+ 
+
+-- 
+
+Thanks & Regards
+
+Mohammed Aashiq | People Systems - Time 
+
+WFM DevOps -Offshore
+
+p | +91 7708875533 
+
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+ 
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: Re: Kronos PREPROD Environment Certificate Renewal
+From: maashiq@tcs.woolworths.com.au
+Received: 2024-11-26 13:12:14.570000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Hi Siva - Dell Team
+
+We have received all group approval .
+
+
+
+
+On Tue, 26 Nov 2024 at 10:52, Krishna S, Siva - Dell Team <Siva.KrishnaS@dellteam.com <mailto:Siva.KrishnaS@dellteam.com> > wrote:
+
+
+	Hi @Mohammed Aashiq (TCS) <mailto:maashiq@tcs.woolworths.com.au> ,
+
+	 
+
+	The change is still pending approval from below groups. We have been following up with the pending groups, requesting your help as well.
+
+	Scheduled on 26th Nov @9PM AEDT.
+
+	 
+
+	
+
+	 
+
+	 
+
+	Please let us know if you have any queries.
+
+	 
+
+	Thanks & regards,
+
+	Siva Krishna
+
+	
+	
+
+	Internal Use - Confidential
+	
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: 22 November 2024 10:22
+	To: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal 
+
+	
+
+	 
+
+	Hi Karthik,
+
+	 
+
+	CHG00356818 is in the "change review" state, with all certificates and changes in place..
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> > 
+	Sent: Friday, November 22, 2024 10:14 AM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohanmmed,
+
+	 
+
+	 
+
+	Do we have an update ?
+
+	 
+
+	 
+
+	Regards,
+
+	Karthik Chengappa K
+
+	Mobile : +91 9880174185 (India)  
+
+	karthik.chengappakollimada@dell.com <mailto:karthik.chengappakollimada@dell.com> 
+
+	
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: 20 November 2024 20:01
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Please use the CSR Files to create the certificates and do not make any changes to the Key files.
+
+	 
+
+	Thanks, and Regards,
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: Wednesday, November 20, 2024 7:22 PM
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	Please refer the files attached in the below mentioned FTP link.
+
+	 
+
+Host: 
+
+https://mft.dell.com
+
+Username: 
+
+mfttdQUTpb8h
+
+Password: 
+
+Welcome@12345
+
+	 
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+	Sent: Wednesday, November 20, 2024 6:38 PM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Kavitha,
+	As discussed please find the Information below for PREPROD UI , API and WDM servers to  generate CSR.
+	
+	PREPROPD_UI_Servers:
+	Load Balancer UI: https://kronosv81cloudppaz.woolworths.com.au/wfc/logon [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAZtKGYZoQ$> 
+	Port : 443
+	Common Name:kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAaJ-FXVmQ$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+	
+	PREPROD_ API _Servers:
+	Load Balance  API :https://kronosv81cloudppapiaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+	Port:443
+	Common Name:kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+	
+	PREPROD_ WDM _Servers:
+	Load Balance  WDM :https://kronosv81cloudppwdmaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+	Port:443
+	Common Name:kronosv81cloudppwdmaz [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> .woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+	Organization Name: Woolworths Group
+	Organization Unit: IT
+	Locality: Bella Vista
+	State : New South Wales
+	Country : AU
+	Message algorithm :sha256
+	Key Size :  2048
+
+	 
+
+	On Tue, 19 Nov 2024 at 20:56, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+		Dell Customer Communication - Confidential
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		As discussed, could you please share the certificate and key along with the answers to the following questions:
+
+		 
+
+		1.	During the implementation, 1-2 ping drops are expected. Could you please confirm if there will be any impact on Kronos, or if there are any other applications utilizing this load balancer?
+		2.	Could you also provide the details of the host/VMs used by this load balancer?
+
+		 
+
+		 
+
+		Thanks & Regards,
+
+		Kavitha Krishnan
+
+		Senior Engineer, Modern Cloud & Application Services
+
+		Dell Technologies| Professional, Managed & Field Services
+
+		Mobile : +91-9901168394
+
+		Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+		 
+
+		 
+
+		From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+		Sent: Tuesday, November 19, 2024 2:53 PM
+		To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		Hi Mohammed,
+
+		 
+
+		If you have created the CSR that’s good.. please share the certificate and Key to proceed further.
+
+		 
+
+		Please note I don’t have access to the link that you have shared.
+
+		 
+
+		Regards,
+
+		 
+
+		Kavitha Krishnan
+
+		 
+
+		 
+
+		Internal Use - Confidential
+
+		 
+
+		Internal Use - Confidential
+
+		From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+		Sent: Tuesday, November 19, 2024 12:36 PM
+		To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+		Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+		Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+		 
+
+		[EXTERNAL EMAIL] 
+
+		Hi Kavitha,
+		
+		We have already generated the CSR file from our end. If you want, I will share the CSR details will you.
+		
+		I will set up a call this week Thursday at 12.30PM AEST to discuss this in detail.
+
+		
+		Meet link : https://meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123 [meet.google.com] <https://urldefense.com/v3/__https:/meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123__;!!LpKI!gznKEZ-qLGZIFo_BxGjQSa-od0Anncp8ke4AI6vMenp77ZhqaJdI3QhGjoXy3TehDWtd-c2aS6OdFemUywmm_j8zIampJw$> 
+
+		 
+
+		-- 
+
+		Thanks & Regards
+
+		Mohammed Aashiq | People Systems - Time 
+
+		WFM DevOps -Offshore
+
+		p | +91 7708875533 
+
+		e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+		g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+		 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+		 
+
+		 
+
+		CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	
+	
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+
+-- 
+
+Thanks & Regards
+Mohammed Aashiq | People Systems - Time 
+WFM DevOps -Offshore
+p | +91 7708875533 
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=10CDF534C7AD423997ED2EFD7C91CE18-SIVA_KRISHN
+Received: 2024-11-26 10:52:08.828000+00:00
+Body:
+Hi @Mohammed Aashiq (TCS) <mailto:maashiq@tcs.woolworths.com.au> ,
+
+ 
+
+The change is still pending approval from below groups. We have been following up with the pending groups, requesting your help as well.
+
+Scheduled on 26th Nov @9PM AEDT.
+
+ 
+
+
+
+ 
+
+ 
+
+Please let us know if you have any queries.
+
+ 
+
+Thanks & regards,
+
+Siva Krishna
+
+
+
+
+Internal Use - Confidential
+
+
+From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com> 
+Sent: 22 November 2024 10:22
+To: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com>; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au>
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au>; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS-CMS L1 <IMS-CMSL1@emc.com>; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Hi Karthik,
+
+ 
+
+CHG00356818 is in the "change review" state, with all certificates and changes in place..
+
+ 
+
+Regards,
+
+ 
+
+Kavitha Krishnan
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com <mailto:Karthik.Chengappakollimada@dell.com> > 
+Sent: Friday, November 22, 2024 10:14 AM
+To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Hi Mohanmmed,
+
+ 
+
+ 
+
+Do we have an update ?
+
+ 
+
+ 
+
+Regards,
+
+Karthik Chengappa K
+
+Mobile : +91 9880174185 (India)  
+
+karthik.chengappakollimada@dell.com <mailto:karthik.chengappakollimada@dell.com> 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+Sent: 20 November 2024 20:01
+To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Please use the CSR Files to create the certificates and do not make any changes to the Key files.
+
+ 
+
+Thanks, and Regards,
+
+Kavitha Krishnan
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+Sent: Wednesday, November 20, 2024 7:22 PM
+To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Hi Mohammed,
+
+ 
+
+Please refer the files attached in the below mentioned FTP link.
+
+ 
+
+Host: 
+
+https://mft.dell.com
+
+Username: 
+
+mfttdQUTpb8h
+
+Password: 
+
+Welcome@12345
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Kavitha Krishnan
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+Sent: Wednesday, November 20, 2024 6:38 PM
+To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Kavitha,
+As discussed please find the Information below for PREPROD UI , API and WDM servers to  generate CSR.
+
+PREPROPD_UI_Servers:
+Load Balancer UI: https://kronosv81cloudppaz.woolworths.com.au/wfc/logon [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAZtKGYZoQ$> 
+Port : 443
+Common Name:kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAaJ-FXVmQ$> 
+Organization Name: Woolworths Group
+Organization Unit: IT
+Locality: Bella Vista
+State : New South Wales
+Country : AU
+Message algorithm :sha256
+Key Size :  2048
+
+PREPROD_ API _Servers:
+Load Balance  API :https://kronosv81cloudppapiaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+Port:443
+Common Name:kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+Organization Name: Woolworths Group
+Organization Unit: IT
+Locality: Bella Vista
+State : New South Wales
+Country : AU
+Message algorithm :sha256
+Key Size :  2048
+
+PREPROD_ WDM _Servers:
+Load Balance  WDM :https://kronosv81cloudppwdmaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+Port:443
+Common Name:kronosv81cloudppwdmaz [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> .woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+Organization Name: Woolworths Group
+Organization Unit: IT
+Locality: Bella Vista
+State : New South Wales
+Country : AU
+Message algorithm :sha256
+Key Size :  2048
+
+ 
+
+On Tue, 19 Nov 2024 at 20:56, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+	Dell Customer Communication - Confidential
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	As discussed, could you please share the certificate and key along with the answers to the following questions:
+
+	 
+
+	1.	During the implementation, 1-2 ping drops are expected. Could you please confirm if there will be any impact on Kronos, or if there are any other applications utilizing this load balancer?
+	2.	Could you also provide the details of the host/VMs used by this load balancer?
+
+	 
+
+	 
+
+	Thanks & Regards,
+
+	Kavitha Krishnan
+
+	Senior Engineer, Modern Cloud & Application Services
+
+	Dell Technologies| Professional, Managed & Field Services
+
+	Mobile : +91-9901168394
+
+	Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+	 
+
+	 
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: Tuesday, November 19, 2024 2:53 PM
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	If you have created the CSR that’s good.. please share the certificate and Key to proceed further.
+
+	 
+
+	Please note I don’t have access to the link that you have shared.
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	 
+
+	Internal Use - Confidential
+
+	From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+	Sent: Tuesday, November 19, 2024 12:36 PM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Kavitha,
+	
+	We have already generated the CSR file from our end. If you want, I will share the CSR details will you.
+	
+	I will set up a call this week Thursday at 12.30PM AEST to discuss this in detail.
+
+	
+	Meet link : https://meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123 [meet.google.com] <https://urldefense.com/v3/__https:/meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123__;!!LpKI!gznKEZ-qLGZIFo_BxGjQSa-od0Anncp8ke4AI6vMenp77ZhqaJdI3QhGjoXy3TehDWtd-c2aS6OdFemUywmm_j8zIampJw$> 
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+
+
+ 
+
+-- 
+
+Thanks & Regards
+
+Mohammed Aashiq | People Systems - Time 
+
+WFM DevOps -Offshore
+
+p | +91 7708875533 
+
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+ 
+
+
+
+
+ 
+
+-- 
+
+Thanks & Regards
+
+Mohammed Aashiq | People Systems - Time 
+
+WFM DevOps -Offshore
+
+p | +91 7708875533 
+
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+ 
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Requesting for Approvals of Change - CHG00356818
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=10CDF534C7AD423997ED2EFD7C91CE18-SIVA_KRISHN
+Received: 2024-11-26 10:28:51.250000+00:00
+Body:
+Follow up email for approvals.
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Krishna S, Siva - Dell Team 
+Sent: 26 November 2024 06:42
+To: Brian Jones <bjones6@woolworths.com.au>; Brian Bates <bbates@woolworths.com.au>; Chittybabu Venkidusamy <cvenkidusamy@woolworths.com.au>; Jim <Kousoulasjkousoulas@woolworths.com.au>; Achroo Batta <abatta@woolworths.com.au>; abagheri@woolworths.com.au; Shaun West <shaun.west@woolworths.com.au>
+Cc: IMS.APJ.CIHCI <ims.apj.cihci@emc.com>; Raveendran, Sruthi <Sruthi.Raveendran@Dell.com>
+Subject: Requesting for Approvals of Change - CHG00356818
+
+ 
+
+Hi Team,
+
+ 
+
+Requested Action:  SD-Platforms - Approval <https://wowcorp.service-now.com/sys_user_group.do?sys_id=78232a9e4f343648dd51eb4f0310c748> 
+
+ 
+
+Change Number: CHG00356818
+
+ 
+
+Change Type: Minor
+
+
+Planned Schedule: 26-11-2024 09:00 PM -- 27-11-2024 03:00 AM
+
+
+Impact: There will be few ping drops for 2 secs however it doesn't cause any impact confirmed by application team
+
+DC Impact: No impact to DC.
+
+
+Scope: s requested by the Kronos team Under theRITM2313268, we need to renew  the SSL certificate for the Kronos Pre-Prod UI servers as they are expiring on 27th November 2024. The Below virtual servers are located in non-prod pc3 AVI load balancer.
+
+ 
+
+Thanks & regards,
+
+Siva Krishna
+
+--------------------------------------------------------------------------------
+
+Subject: Requesting for Approvals of Change - CHG00356818
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=10CDF534C7AD423997ED2EFD7C91CE18-SIVA_KRISHN
+Received: 2024-11-26 06:42:20.375000+00:00
+Body:
+Hi Team,
+
+ 
+
+Requested Action:  SD-Platforms - Approval <https://wowcorp.service-now.com/sys_user_group.do?sys_id=78232a9e4f343648dd51eb4f0310c748> 
+
+ 
+
+Change Number: CHG00356818
+
+ 
+
+Change Type: Minor
+
+
+Planned Schedule: 26-11-2024 09:00 PM -- 27-11-2024 03:00 AM
+
+
+Impact: There will be few ping drops for 2 secs however it doesn't cause any impact confirmed by application team
+
+DC Impact: No impact to DC.
+
+
+Scope: s requested by the Kronos team Under theRITM2313268, we need to renew  the SSL certificate for the Kronos Pre-Prod UI servers as they are expiring on 27th November 2024. The Below virtual servers are located in non-prod pc3 AVI load balancer.
+
+ 
+
+Thanks & regards,
+
+Siva Krishna
+
+
+Internal Use - Confidential
+
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=408BDFBB2F09491BB6FEA3E8FB964A54-KRISHK7
+Received: 2024-11-22 10:21:54.825000+00:00
+Body:
+Hi Karthik,
+
+ 
+
+CHG00356818 is in the "change review" state, with all certificates and changes in place..
+
+ 
+
+Regards,
+
+ 
+
+Kavitha Krishnan
+
+ 
+
+ 
+
+
+Internal Use - Confidential
+
+
+From: ChengappaKollimada, Karthik <Karthik.Chengappakollimada@dell.com> 
+Sent: Friday, November 22, 2024 10:14 AM
+To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com>; Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au>
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au>; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com>; DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS-CMS L1 <IMS-CMSL1@emc.com>; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Hi Mohanmmed,
+
+ 
+
+ 
+
+Do we have an update ?
+
+ 
+
+ 
+
+Regards,
+
+Karthik Chengappa K
+
+Mobile : +91 9880174185 (India)  
+
+karthik.chengappakollimada@dell.com <mailto:karthik.chengappakollimada@dell.com> 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+Sent: 20 November 2024 20:01
+To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Please use the CSR Files to create the certificates and do not make any changes to the Key files.
+
+ 
+
+Thanks, and Regards,
+
+Kavitha Krishnan
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+Sent: Wednesday, November 20, 2024 7:22 PM
+To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+Hi Mohammed,
+
+ 
+
+Please refer the files attached in the below mentioned FTP link.
+
+ 
+
+Host: 
+
+https://mft.dell.com
+
+Username: 
+
+mfttdQUTpb8h
+
+Password: 
+
+Welcome@12345
+
+ 
+
+ 
+
+Regards,
+
+ 
+
+Kavitha Krishnan
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+Sent: Wednesday, November 20, 2024 6:38 PM
+To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Hi Kavitha,
+As discussed please find the Information below for PREPROD UI , API and WDM servers to  generate CSR.
+
+PREPROPD_UI_Servers:
+Load Balancer UI: https://kronosv81cloudppaz.woolworths.com.au/wfc/logon [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAZtKGYZoQ$> 
+Port : 443
+Common Name:kronosv81cloudppaz.woolworths.com.au [kronosv81cloudppaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAaJ-FXVmQ$> 
+Organization Name: Woolworths Group
+Organization Unit: IT
+Locality: Bella Vista
+State : New South Wales
+Country : AU
+Message algorithm :sha256
+Key Size :  2048
+
+PREPROD_ API _Servers:
+Load Balance  API :https://kronosv81cloudppapiaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+Port:443
+Common Name:kronosv81cloudppapiaz.woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+Organization Name: Woolworths Group
+Organization Unit: IT
+Locality: Bella Vista
+State : New South Wales
+Country : AU
+Message algorithm :sha256
+Key Size :  2048
+
+PREPROD_ WDM _Servers:
+Load Balance  WDM :https://kronosv81cloudppwdmaz.woolworths.com.au/wfc/logon [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> 
+Port:443
+Common Name:kronosv81cloudppwdmaz [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__https:/kronosv81cloudppapiaz.woolworths.com.au/wfc/logon__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYltf0hVA$> .woolworths.com.au [kronosv81cloudppapiaz.woolworths.com.au] <https://urldefense.com/v3/__http:/kronosv81cloudppapiaz.woolworths.com.au__;!!LpKI!ixJYLFVZSjv3QfZyco-Duq_UUMJ413CnZQ3ErpqTRblDWQGKIhXUjGXXVjFp4m-7aDUUiEvSnVT6K5pgKIHuiAYWZetycg$> 
+Organization Name: Woolworths Group
+Organization Unit: IT
+Locality: Bella Vista
+State : New South Wales
+Country : AU
+Message algorithm :sha256
+Key Size :  2048
+
+ 
+
+On Tue, 19 Nov 2024 at 20:56, Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > wrote:
+
+	Dell Customer Communication - Confidential
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	As discussed, could you please share the certificate and key along with the answers to the following questions:
+
+	 
+
+	1.	During the implementation, 1-2 ping drops are expected. Could you please confirm if there will be any impact on Kronos, or if there are any other applications utilizing this load balancer?
+	2.	Could you also provide the details of the host/VMs used by this load balancer?
+
+	 
+
+	 
+
+	Thanks & Regards,
+
+	Kavitha Krishnan
+
+	Senior Engineer, Modern Cloud & Application Services
+
+	Dell Technologies| Professional, Managed & Field Services
+
+	Mobile : +91-9901168394
+
+	Email: kavitha.krishnan2@emc.com <mailto:kavitha.krishnan2@emc.com> 
+
+	 
+
+	 
+
+	From: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> > 
+	Sent: Tuesday, November 19, 2024 2:53 PM
+	To: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: RE: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	Hi Mohammed,
+
+	 
+
+	If you have created the CSR that’s good.. please share the certificate and Key to proceed further.
+
+	 
+
+	Please note I don’t have access to the link that you have shared.
+
+	 
+
+	Regards,
+
+	 
+
+	Kavitha Krishnan
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	 
+
+	Internal Use - Confidential
+
+	From: Mohammed Aashiq (TCS) <maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au> > 
+	Sent: Tuesday, November 19, 2024 12:36 PM
+	To: Krishnan, Kavitha <Kavitha.Krishnan2@dell.com <mailto:Kavitha.Krishnan2@dell.com> >
+	Cc: WFM-KCD <wfm-kcd@woolworths.com.au <mailto:wfm-kcd@woolworths.com.au> >; Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> >; DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS-CMS L1 <IMS-CMSL1@emc.com <mailto:IMS-CMSL1@emc.com> >; Mohiddin Khan, Pathan - Dell Team <Pathan.MohiddinKhan@dellteam.com <mailto:Pathan.MohiddinKhan@dellteam.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Subject: Re: Kronos PREPROD Environment Certificate Renewal
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Hi Kavitha,
+	
+	We have already generated the CSR file from our end. If you want, I will share the CSR details will you.
+	
+	I will set up a call this week Thursday at 12.30PM AEST to discuss this in detail.
+
+	
+	Meet link : https://meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123 [meet.google.com] <https://urldefense.com/v3/__https:/meet.google.com/pma-tyzd-xup?authuser=0&hs=122&ijlm=1731999842123__;!!LpKI!gznKEZ-qLGZIFo_BxGjQSa-od0Anncp8ke4AI6vMenp77ZhqaJdI3QhGjoXy3TehDWtd-c2aS6OdFemUywmm_j8zIampJw$> 
+
+	 
+
+	-- 
+
+	Thanks & Regards
+
+	Mohammed Aashiq | People Systems - Time 
+
+	WFM DevOps -Offshore
+
+	p | +91 7708875533 
+
+	e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+	g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+	 <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+	 
+
+	 
+
+	CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+
+
+
+ 
+
+-- 
+
+Thanks & Regards
+
+Mohammed Aashiq | People Systems - Time 
+
+WFM DevOps -Offshore
+
+p | +91 7708875533 
+
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+ 
+
+
+
+
+ 
+
+-- 
+
+Thanks & Regards
+
+Mohammed Aashiq | People Systems - Time 
+
+WFM DevOps -Offshore
+
+p | +91 7708875533 
+
+e | maashiq@tcs.woolworths.com.au <mailto:maashiq@tcs.woolworths.com.au>  
+
+g | wfmdevops@woolworths.com.au <mailto:wfmdevops@woolworths.com.au>  
+
+ <https://lh6.googleusercontent.com/w7K84tO2KJ2lIBhoEYYe1JTlWM2G7x4Vv81KVvEU9jS5v0EhXrmGU4KvwUWz6tuf08ClGkM72i_XjaKBAp8QCBrUjsib_jLO_V-0gK2qBBCQ2gQyPe-yue6I-7WbhT19dpRV-eQ> 
+
+ 
+
+ 
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+

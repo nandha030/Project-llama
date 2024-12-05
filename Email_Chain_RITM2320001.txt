@@ -1,0 +1,897 @@
+Subject: Re: Requested Item RITM2320001 has been assigned to Dell Tech
+From: asyed2@woolworths.com.au
+Received: 2024-11-28 10:54:26.346000+00:00
+Body:
+[EXTERNAL EMAIL] 
+
+
+Thanks Gokulnath
+
+@Nathan Ward <mailto:nward@woolworths.com.au>  
+
+
+Hi @Subbu Deivanayagam (TCS) <mailto:sdeivanayagam@tcs.woolworths.com.au>  ,
+Can you please confirm the flows? Thanks 
+
+
+Regards
+Ali
+
+On Thu, 28 Nov 2024, 4:21 pm Chandran, Gokulnath - Dell Team, <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> > wrote:
+
+
+	Hi @Ali Syed <mailto:asyed2@woolworths.com.au> ,
+
+	 
+
+	CHG00357743 – Firewall implementation is completed, Please start the BVT test and confirm back.
+
+	 
+
+	Best Regards,
+
+	Gokulnath C
+
+	 
+
+	
+	
+
+	Internal Use - Confidential
+	
+
+	From: Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> > 
+	Sent: 26 November 2024 06:29
+	To: Ali Syed <asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> >
+	Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com <mailto:Uday.KumarNV@dellteam.com> >
+	Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech 
+
+	
+
+	 
+
+	Hi @Ali Syed <mailto:asyed2@woolworths.com.au> ,
+
+	 
+
+	CHG00357743 [wowcorp.service-now.com] <https://urldefense.com/v3/__https://wowcorp.service-now.com/change_request.do?sys_id=b22ab8c6478216d0ba879e25316d4383&sysparm_record_target=change_request&sysparm_record_row=4&sysparm_record_rows=18&sysparm_record_list=assignment_group*3Da89bb6a8872ed51848d0a9f40cbb35aa*5EstateNOT*IN14*2C15*2C3*2C16*5EORDERBYstart_date__;JSUrJSUlJQ!!LpKI!nwLf4-YbVh5cxgRNf3GLQ-kdkPwNelFJZHrcpLp4L20DmFrRkxTXR3u1ptraQk9lcYw8q7JbrbRknoAJQyHA9Q$>  – Change is scheduled for 28th Nov 4PM AEDT. We will keep you posted on the change approval status.
+
+	 
+
+	Best Regards,
+
+	Gokulnath C
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> > 
+	Sent: 22 November 2024 06:24
+	To: Ali Syed <asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> >
+	Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com <mailto:Uday.KumarNV@dellteam.com> >
+	Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+	 
+
+	Hi Ali,
+
+	 
+
+	Please obtain the approval email from Shaun West or Brian Jones to proceed further with this request.
+
+	 
+
+	Also kindly share below requirements as well.
+
+	 
+
+	1. Please provide link  to the approved IHLD which should have the requested firewall rules in the Nodes and Flow slide, and the approval slide to show iDA approval obtained for this request.
+
+	2. Application BVT steps and BVT Resource details - if it is possible to perform BVT during the firewall CHG window
+
+	 
+
+	Best Regards,
+
+	Gokulnath C
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com <mailto:Uday.KumarNV@dellteam.com> > 
+	Sent: 22 November 2024 05:40
+	To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+	Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+	Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+	 
+
+	Hi Team,
+
+	 
+
+	 
+
+	We have assigned subjected #RITM2320001   to your queue. Kindly look into it.
+
+	 
+
+	 
+
+	 
+
+	Thanks and Regards,
+
+	Uday Kumar N V
+
+	Service Delivery Engineer L1,
+
+	Uday.KumarNV@Dellteam.com <mailto:Uday.KumarNV@Dellteam.com> 
+	Dell Technologies | Professional, Managed, & Field Services
+
+	' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+	' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+	' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+	 
+
+	Note: For Faster Response. Please include Team DL dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	 
+
+	Internal Use - Confidential
+
+	From: ServiceWOW <wowcorp@service-now.com <mailto:wowcorp@service-now.com> > 
+	Sent: 22 November 2024 05:19
+	To: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+	Subject: Requested Item RITM2320001 has been assigned to Dell Tech
+
+	 
+
+	[EXTERNAL EMAIL] 
+
+	Short description: Maximo 7.6 (AVS) connectivity to Maximo Application Suite
+
+	Item: General IT Assistance
+	
+	
+	Click here to view request item: RITM2320001 [wowcorp.service-now.com] <https://urldefense.com/v3/__https:/wowcorp.service-now.com/nav_to.do?uri=sc_req_item.do*3Fsys_id=f740124d4782965080a8f9ec416d431a*26sysparm_stack=sc_req_item_list.do*3Fsysparm_query=active=true__;JSUl!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERqC1nuWP$> 
+
+	 
+
+	Description: Requesting to enable FW Rules as per below sheet.
+	https://docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing [docs.google.com] <https://urldefense.com/v3/__https:/docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing__;!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERlw1JqiY$> 
+	
+	Please note that above rules are only for connectivity between the old and new Maximo application and DO NOT impact distribution centers in any way.
+	Also
+	The MAS project has received special consideration and the necessary approvals for the requested changes have been sought from Angelo Clayton and H Salahifar . These changes, including the one discussed here, are essential for preparing the PROD environment for further development. The environment must be ready after the Christmas freeze; any delays will severely impact the project timelines for migrating from the EOL Maximo solution to the new MAS solution. Such delays could incur significant costs and risks for the business.
+
+	 
+
+	Requested for Name: Ali Syed
+
+	Requested for Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+	Requested for Business phone: 
+
+	 Requested for Mobile phone: +0417874753
+
+	 
+
+	Opened by Name: Ali Syed
+
+	Opened by Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+	Opened by Business phone: 
+
+	Opened by Mobile phone: +0417874753
+
+	 
+
+	Priority: 
+
+	 
+
+	Comments: 
+
+	 
+
+	 
+
+	 
+
+	Please do not reply to this email as its a system generated message
+
+	----------------------------------------------------------------
+
+	 
+
+	 
+
+	Ref:MSG212265341
+
+
+CAUTION: This email, links and files included in its transmission by Woolworths Group Limited ABN 88 000 014 675 and its group of companies (Woolworths Group) are solely intended for the use of the addressee(s) and may contain information that is confidential and privileged. If you receive this email in error, please advise us immediately and delete it without reading or copying the contents contained within. Woolworths Group does not accept liability for the views expressed within or the consequences of any computer malware that may be transmitted with this email. The contents are also subject to copyright. No part of it should be reproduced, adapted or transmitted without the written consent of the copyright owner.
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9B5ACC59FEA34E2A9FF5C1944D623330-GOKULNATH_C
+Received: 2024-11-28 10:51:16.816000+00:00
+Body:
+Hi @Ali Syed <mailto:asyed2@woolworths.com.au> ,
+
+ 
+
+CHG00357743 – Firewall implementation is completed, Please start the BVT test and confirm back.
+
+ 
+
+Best Regards,
+
+Gokulnath C
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com> 
+Sent: 26 November 2024 06:29
+To: Ali Syed <asyed2@woolworths.com.au>
+Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>; Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com>
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+Hi @Ali Syed <mailto:asyed2@woolworths.com.au> ,
+
+ 
+
+CHG00357743 <https://wowcorp.service-now.com/change_request.do?sys_id=b22ab8c6478216d0ba879e25316d4383&sysparm_record_target=change_request&sysparm_record_row=4&sysparm_record_rows=18&sysparm_record_list=assignment_group%3Da89bb6a8872ed51848d0a9f40cbb35aa%5EstateNOT+IN14%2C15%2C3%2C16%5EORDERBYstart_date>  – Change is scheduled for 28th Nov 4PM AEDT. We will keep you posted on the change approval status.
+
+ 
+
+Best Regards,
+
+Gokulnath C
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com <mailto:Gokulnath.Chandran@dellteam.com> > 
+Sent: 22 November 2024 06:24
+To: Ali Syed <asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> >
+Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >; IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >; Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com <mailto:Uday.KumarNV@dellteam.com> >
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+Hi Ali,
+
+ 
+
+Please obtain the approval email from Shaun West or Brian Jones to proceed further with this request.
+
+ 
+
+Also kindly share below requirements as well.
+
+ 
+
+1. Please provide link  to the approved IHLD which should have the requested firewall rules in the Nodes and Flow slide, and the approval slide to show iDA approval obtained for this request.
+
+2. Application BVT steps and BVT Resource details - if it is possible to perform BVT during the firewall CHG window
+
+ 
+
+Best Regards,
+
+Gokulnath C
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com <mailto:Uday.KumarNV@dellteam.com> > 
+Sent: 22 November 2024 05:40
+To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+Hi Team,
+
+ 
+
+ 
+
+We have assigned subjected #RITM2320001   to your queue. Kindly look into it.
+
+ 
+
+ 
+
+ 
+
+Thanks and Regards,
+
+Uday Kumar N V
+
+Service Delivery Engineer L1,
+
+Uday.KumarNV@Dellteam.com <mailto:Uday.KumarNV@Dellteam.com> 
+Dell Technologies | Professional, Managed, & Field Services
+
+' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+ 
+
+Note: For Faster Response. Please include Team DL dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: ServiceWOW <wowcorp@service-now.com <mailto:wowcorp@service-now.com> > 
+Sent: 22 November 2024 05:19
+To: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+Subject: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Short description: Maximo 7.6 (AVS) connectivity to Maximo Application Suite
+
+Item: General IT Assistance
+
+
+Click here to view request item: RITM2320001 [wowcorp.service-now.com] <https://urldefense.com/v3/__https:/wowcorp.service-now.com/nav_to.do?uri=sc_req_item.do*3Fsys_id=f740124d4782965080a8f9ec416d431a*26sysparm_stack=sc_req_item_list.do*3Fsysparm_query=active=true__;JSUl!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERqC1nuWP$> 
+
+ 
+
+Description: Requesting to enable FW Rules as per below sheet.
+https://docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing [docs.google.com] <https://urldefense.com/v3/__https:/docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing__;!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERlw1JqiY$> 
+
+Please note that above rules are only for connectivity between the old and new Maximo application and DO NOT impact distribution centers in any way.
+Also
+The MAS project has received special consideration and the necessary approvals for the requested changes have been sought from Angelo Clayton and H Salahifar . These changes, including the one discussed here, are essential for preparing the PROD environment for further development. The environment must be ready after the Christmas freeze; any delays will severely impact the project timelines for migrating from the EOL Maximo solution to the new MAS solution. Such delays could incur significant costs and risks for the business.
+
+ 
+
+Requested for Name: Ali Syed
+
+Requested for Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Requested for Business phone: 
+
+ Requested for Mobile phone: +0417874753
+
+ 
+
+Opened by Name: Ali Syed
+
+Opened by Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Opened by Business phone: 
+
+Opened by Mobile phone: +0417874753
+
+ 
+
+Priority: 
+
+ 
+
+Comments: 
+
+ 
+
+ 
+
+ 
+
+Please do not reply to this email as its a system generated message
+
+----------------------------------------------------------------
+
+ 
+
+ 
+
+Ref:MSG212265341
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9B5ACC59FEA34E2A9FF5C1944D623330-GOKULNATH_C
+Received: 2024-11-26 06:29:32.367000+00:00
+Body:
+Hi @Ali Syed <mailto:asyed2@woolworths.com.au> ,
+
+ 
+
+CHG00357743 <https://wowcorp.service-now.com/change_request.do?sys_id=b22ab8c6478216d0ba879e25316d4383&sysparm_record_target=change_request&sysparm_record_row=4&sysparm_record_rows=18&sysparm_record_list=assignment_group%3Da89bb6a8872ed51848d0a9f40cbb35aa%5EstateNOT+IN14%2C15%2C3%2C16%5EORDERBYstart_date>  – Change is scheduled for 28th Nov 4PM AEDT. We will keep you posted on the change approval status.
+
+ 
+
+Best Regards,
+
+Gokulnath C
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Chandran, Gokulnath - Dell Team <Gokulnath.Chandran@dellteam.com> 
+Sent: 22 November 2024 06:24
+To: Ali Syed <asyed2@woolworths.com.au>
+Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com>; IMS.APJ.CIHCI <ims.apj.cihci@emc.com>; Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com>
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+Hi Ali,
+
+ 
+
+Please obtain the approval email from Shaun West or Brian Jones to proceed further with this request.
+
+ 
+
+Also kindly share below requirements as well.
+
+ 
+
+1. Please provide link  to the approved IHLD which should have the requested firewall rules in the Nodes and Flow slide, and the approval slide to show iDA approval obtained for this request.
+
+2. Application BVT steps and BVT Resource details - if it is possible to perform BVT during the firewall CHG window
+
+ 
+
+Best Regards,
+
+Gokulnath C
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com <mailto:Uday.KumarNV@dellteam.com> > 
+Sent: 22 November 2024 05:40
+To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com <mailto:ims.apj.cihci@emc.com> >
+Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+Hi Team,
+
+ 
+
+ 
+
+We have assigned subjected #RITM2320001   to your queue. Kindly look into it.
+
+ 
+
+ 
+
+ 
+
+Thanks and Regards,
+
+Uday Kumar N V
+
+Service Delivery Engineer L1,
+
+Uday.KumarNV@Dellteam.com <mailto:Uday.KumarNV@Dellteam.com> 
+Dell Technologies | Professional, Managed, & Field Services
+
+' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+ 
+
+Note: For Faster Response. Please include Team DL dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: ServiceWOW <wowcorp@service-now.com <mailto:wowcorp@service-now.com> > 
+Sent: 22 November 2024 05:19
+To: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+Subject: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Short description: Maximo 7.6 (AVS) connectivity to Maximo Application Suite
+
+Item: General IT Assistance
+
+
+Click here to view request item: RITM2320001 [wowcorp.service-now.com] <https://urldefense.com/v3/__https:/wowcorp.service-now.com/nav_to.do?uri=sc_req_item.do*3Fsys_id=f740124d4782965080a8f9ec416d431a*26sysparm_stack=sc_req_item_list.do*3Fsysparm_query=active=true__;JSUl!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERqC1nuWP$> 
+
+ 
+
+Description: Requesting to enable FW Rules as per below sheet.
+https://docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing [docs.google.com] <https://urldefense.com/v3/__https:/docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing__;!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERlw1JqiY$> 
+
+Please note that above rules are only for connectivity between the old and new Maximo application and DO NOT impact distribution centers in any way.
+Also
+The MAS project has received special consideration and the necessary approvals for the requested changes have been sought from Angelo Clayton and H Salahifar . These changes, including the one discussed here, are essential for preparing the PROD environment for further development. The environment must be ready after the Christmas freeze; any delays will severely impact the project timelines for migrating from the EOL Maximo solution to the new MAS solution. Such delays could incur significant costs and risks for the business.
+
+ 
+
+Requested for Name: Ali Syed
+
+Requested for Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Requested for Business phone: 
+
+ Requested for Mobile phone: +0417874753
+
+ 
+
+Opened by Name: Ali Syed
+
+Opened by Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Opened by Business phone: 
+
+Opened by Mobile phone: +0417874753
+
+ 
+
+Priority: 
+
+ 
+
+Comments: 
+
+ 
+
+ 
+
+ 
+
+Please do not reply to this email as its a system generated message
+
+----------------------------------------------------------------
+
+ 
+
+ 
+
+Ref:MSG212265341
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=9B5ACC59FEA34E2A9FF5C1944D623330-GOKULNATH_C
+Received: 2024-11-22 06:24:34.417000+00:00
+Body:
+Hi Ali,
+
+ 
+
+Please obtain the approval email from Shaun West or Brian Jones to proceed further with this request.
+
+ 
+
+Also kindly share below requirements as well.
+
+ 
+
+1. Please provide link  to the approved IHLD which should have the requested firewall rules in the Nodes and Flow slide, and the approval slide to show iDA approval obtained for this request.
+
+2. Application BVT steps and BVT Resource details - if it is possible to perform BVT during the firewall CHG window
+
+ 
+
+Best Regards,
+
+Gokulnath C
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: Kumar N V, Uday - Dell Team <Uday.KumarNV@dellteam.com> 
+Sent: 22 November 2024 05:40
+To: IMS.APJ.CIHCI <ims.apj.cihci@emc.com>
+Cc: DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+Hi Team,
+
+ 
+
+ 
+
+We have assigned subjected #RITM2320001   to your queue. Kindly look into it.
+
+ 
+
+ 
+
+ 
+
+Thanks and Regards,
+
+Uday Kumar N V
+
+Service Delivery Engineer L1,
+
+Uday.KumarNV@Dellteam.com <mailto:Uday.KumarNV@Dellteam.com> 
+Dell Technologies | Professional, Managed, & Field Services
+
+' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+ 
+
+Note: For Faster Response. Please include Team DL dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internal Use - Confidential
+
+From: ServiceWOW <wowcorp@service-now.com <mailto:wowcorp@service-now.com> > 
+Sent: 22 November 2024 05:19
+To: DTMS.MCSL1 <dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> >
+Subject: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Short description: Maximo 7.6 (AVS) connectivity to Maximo Application Suite
+
+Item: General IT Assistance
+
+
+Click here to view request item: RITM2320001 [wowcorp.service-now.com] <https://urldefense.com/v3/__https:/wowcorp.service-now.com/nav_to.do?uri=sc_req_item.do*3Fsys_id=f740124d4782965080a8f9ec416d431a*26sysparm_stack=sc_req_item_list.do*3Fsysparm_query=active=true__;JSUl!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERqC1nuWP$> 
+
+ 
+
+Description: Requesting to enable FW Rules as per below sheet.
+https://docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing [docs.google.com] <https://urldefense.com/v3/__https:/docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing__;!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERlw1JqiY$> 
+
+Please note that above rules are only for connectivity between the old and new Maximo application and DO NOT impact distribution centers in any way.
+Also
+The MAS project has received special consideration and the necessary approvals for the requested changes have been sought from Angelo Clayton and H Salahifar . These changes, including the one discussed here, are essential for preparing the PROD environment for further development. The environment must be ready after the Christmas freeze; any delays will severely impact the project timelines for migrating from the EOL Maximo solution to the new MAS solution. Such delays could incur significant costs and risks for the business.
+
+ 
+
+Requested for Name: Ali Syed
+
+Requested for Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Requested for Business phone: 
+
+ Requested for Mobile phone: +0417874753
+
+ 
+
+Opened by Name: Ali Syed
+
+Opened by Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Opened by Business phone: 
+
+Opened by Mobile phone: +0417874753
+
+ 
+
+Priority: 
+
+ 
+
+Comments: 
+
+ 
+
+ 
+
+ 
+
+Please do not reply to this email as its a system generated message
+
+----------------------------------------------------------------
+
+ 
+
+ 
+
+Ref:MSG212265341
+
+--------------------------------------------------------------------------------
+
+Subject: RE: Requested Item RITM2320001 has been assigned to Dell Tech
+From: /O=EXCHANGELABS/OU=EXCHANGE ADMINISTRATIVE GROUP (FYDIBOHF23SPDLT)/CN=RECIPIENTS/CN=CD27EB7C0A8242179CCB83C3DB2D87A0-1C4A569F-03
+Received: 2024-11-22 05:39:37.441000+00:00
+Body:
+Hi Team,
+
+ 
+
+ 
+
+We have assigned subjected #RITM2320001   to your queue. Kindly look into it.
+
+ 
+
+ 
+
+ 
+
+Thanks and Regards,
+
+Uday Kumar N V
+
+Service Delivery Engineer L1,
+
+Uday.KumarNV@Dellteam.com <mailto:Uday.KumarNV@Dellteam.com> 
+Dell Technologies | Professional, Managed, & Field Services
+
+' 24/7 Australia Toll Free:  1 800 335 438 Extension: 6266084
+' 24/7 US Toll Free:   1 877-403-1672 Extension 6266084
+' 24/7 UK Toll Free:  +44 870 6000 300 Extension: 6266084
+
+ 
+
+Note: For Faster Response. Please include Team DL dtms.mcsl1@Dell.com <mailto:dtms.mcsl1@Dell.com> 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Internal Use - Confidential
+
+
+From: ServiceWOW <wowcorp@service-now.com> 
+Sent: 22 November 2024 05:19
+To: DTMS.MCSL1 <dtms.mcsl1@Dell.com>
+Subject: Requested Item RITM2320001 has been assigned to Dell Tech
+
+ 
+
+[EXTERNAL EMAIL] 
+
+Short description: Maximo 7.6 (AVS) connectivity to Maximo Application Suite
+
+Item: General IT Assistance
+
+
+Click here to view request item: RITM2320001 [wowcorp.service-now.com] <https://urldefense.com/v3/__https:/wowcorp.service-now.com/nav_to.do?uri=sc_req_item.do*3Fsys_id=f740124d4782965080a8f9ec416d431a*26sysparm_stack=sc_req_item_list.do*3Fsysparm_query=active=true__;JSUl!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERqC1nuWP$> 
+
+ 
+
+Description: Requesting to enable FW Rules as per below sheet.
+https://docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing [docs.google.com] <https://urldefense.com/v3/__https:/docs.google.com/spreadsheets/d/1KY9PTMgRn3b7wygQ2g92cto9UdTJ6YMvvFCkExAzodY/edit?usp=sharing__;!!LpKI!ggJZZOK9CcIJgUgHacOUU3R9WWCb5cgR-udqhcYY9smUWs2X9cxFfAH8Gk9_eF5Hpk93bIqs8USERlw1JqiY$> 
+
+Please note that above rules are only for connectivity between the old and new Maximo application and DO NOT impact distribution centers in any way.
+Also
+The MAS project has received special consideration and the necessary approvals for the requested changes have been sought from Angelo Clayton and H Salahifar . These changes, including the one discussed here, are essential for preparing the PROD environment for further development. The environment must be ready after the Christmas freeze; any delays will severely impact the project timelines for migrating from the EOL Maximo solution to the new MAS solution. Such delays could incur significant costs and risks for the business.
+
+ 
+
+Requested for Name: Ali Syed
+
+Requested for Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Requested for Business phone: 
+
+ Requested for Mobile phone: +0417874753
+
+ 
+
+Opened by Name: Ali Syed
+
+Opened by Email: asyed2@woolworths.com.au <mailto:asyed2@woolworths.com.au> 
+
+Opened by Business phone: 
+
+Opened by Mobile phone: +0417874753
+
+ 
+
+Priority: 
+
+ 
+
+Comments: 
+
+ 
+
+ 
+
+ 
+
+Please do not reply to this email as its a system generated message
+
+----------------------------------------------------------------
+
+ 
+
+ 
+
+Ref:MSG212265341
+
+--------------------------------------------------------------------------------
+

@@ -1,0 +1,90 @@
+2024-11-27 20:17:45,603 - INFO - Initializing LLM model: meta-llama/Llama-2-7b-chat-hf
+2024-11-27 20:17:46,199 - ERROR - Error initializing LLM: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/meta-llama/Llama-2-7b-chat-hf.
+401 Client Error. (Request ID: Root=1-67473113-650d45c822b016583e6a3c30;3c9e300d-85f9-425c-9c86-dbecd6533a1c)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-chat-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-chat-hf is restricted. You must have access to it and be authenticated to access it. Please log in.
+2024-11-27 20:17:46,199 - ERROR - Error in main execution: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/meta-llama/Llama-2-7b-chat-hf.
+401 Client Error. (Request ID: Root=1-67473113-650d45c822b016583e6a3c30;3c9e300d-85f9-425c-9c86-dbecd6533a1c)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-chat-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-chat-hf is restricted. You must have access to it and be authenticated to access it. Please log in.
+2024-11-27 20:18:10,171 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 406, in hf_raise_for_status
+    response.raise_for_status()
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 401 Client Error: Unauthorized for url: https://huggingface.co/meta-llama/Llama-2-7b-chat-hf/resolve/main/config.json
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\utils\hub.py", line 403, in cached_file
+    resolved_file = hf_hub_download(
+                    ^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_deprecation.py", line 101, in inner_f
+    return f(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1232, in hf_hub_download
+    return _hf_hub_download_to_cache_dir(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1339, in _hf_hub_download_to_cache_dir
+    _raise_on_head_call_error(head_call_error, force_download, local_files_only)
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1854, in _raise_on_head_call_error
+    raise head_call_error
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1746, in _get_metadata_or_catch_error
+    metadata = get_hf_file_metadata(
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_validators.py", line 114, in _inner_fn
+    return fn(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 1666, in get_hf_file_metadata
+    r = _request_wrapper(
+        ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 364, in _request_wrapper
+    response = _request_wrapper(
+               ^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\file_download.py", line 388, in _request_wrapper
+    hf_raise_for_status(response)
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\huggingface_hub\utils\_http.py", line 423, in hf_raise_for_status
+    raise _format(GatedRepoError, message, response) from e
+huggingface_hub.errors.GatedRepoError: 401 Client Error. (Request ID: Root=1-67473113-650d45c822b016583e6a3c30;3c9e300d-85f9-425c-9c86-dbecd6533a1c)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-chat-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-chat-hf is restricted. You must have access to it and be authenticated to access it. Please log in.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\Outlook_automation\Outlook_Auto_6.py", line 356, in main
+    llm = LLMInitializer.initialize_llm()
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\Outlook_automation\Outlook_Auto_6.py", line 51, in initialize_llm
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\models\auto\tokenization_auto.py", line 864, in from_pretrained
+    config = AutoConfig.from_pretrained(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\models\auto\configuration_auto.py", line 1006, in from_pretrained
+    config_dict, unused_kwargs = PretrainedConfig.get_config_dict(pretrained_model_name_or_path, **kwargs)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\configuration_utils.py", line 567, in get_config_dict
+    config_dict, kwargs = cls._get_config_dict(pretrained_model_name_or_path, **kwargs)
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\configuration_utils.py", line 626, in _get_config_dict
+    resolved_config_file = cached_file(
+                           ^^^^^^^^^^^^
+  File "C:\Users\Nandhavignesh_Ram\OneDrive - Dell Technologies\Desktop\Docs\venv\Lib\site-packages\transformers\utils\hub.py", line 421, in cached_file
+    raise EnvironmentError(
+OSError: You are trying to access a gated repo.
+Make sure to have access to it at https://huggingface.co/meta-llama/Llama-2-7b-chat-hf.
+401 Client Error. (Request ID: Root=1-67473113-650d45c822b016583e6a3c30;3c9e300d-85f9-425c-9c86-dbecd6533a1c)
+
+Cannot access gated repo for url https://huggingface.co/meta-llama/Llama-2-7b-chat-hf/resolve/main/config.json.
+Access to model meta-llama/Llama-2-7b-chat-hf is restricted. You must have access to it and be authenticated to access it. Please log in.
+

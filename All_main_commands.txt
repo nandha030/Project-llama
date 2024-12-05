@@ -1,0 +1,80 @@
+# Consolidated Command History
+
+## Python and Environment Setup
+```
+python --version
+python3 -m venv venv
+python -m venv venv
+.\venv\Scripts\Activate
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
+## Package Installations
+```
+pip install win32com transformers spacy python-docx pywin32 torch nltk imaplib email fpdf openai python-dotenv requests urllib3 PyMuPDF huggingface_hub certifi llama-stack
+pip install --upgrade pip openai certifi
+pip install openai==0.28
+```
+
+## Spacy Model Download
+```
+python -m spacy download en_core_web_sm
+```
+
+## Python Script Executions
+```
+python .\Outlook_auto.py
+python .\Outlook_Auto_1.py
+python .\Outlook_Auto_2.py
+python .\Outlook_Auto_3.py
+python .\Outlook_Auto_4.py
+python .\Outlook_Auto_5.py
+python .\Outlook_Auto_6.py
+python .\Outlook_Auto_7.py
+python .\Outlook_Auto_8.py
+```
+
+## File Editing
+```
+vi Outlook_Auto_1.py
+nano Outlook_Auto_1.py
+```
+
+## Directory Operations
+```
+cd ..
+cd .\Docs\
+cd .\Outlook_automation\
+pwd
+ls
+ls -lha
+```
+
+## Llama Model Operations
+```
+llama model list --show-all
+llama model download --source meta --model-id meta-llama/Llama-3.2-90B-Vision-Instruct
+llama model download --source huggingface --model-id meta-llama/Llama-3.2-90B-Vision-Instruct --hf-token [TOKEN]
+llama model download --source huggingface --model-id meta-llama/Llama-3.1-70B-Instruct --hf-token [TOKEN]
+llama model download --source huggingface --model-id meta-llama/Llama-2-7b-chat-hf --hf-token [TOKEN]
+llama model download --source meta --model-id meta-llama/Llama-2-70b-chat
+```
+
+## Hugging Face CLI Operations
+```
+huggingface-cli login
+```
+
+## System Operations
+```
+systeminfo
+export SSL_CERT_FILE=$(python -m certifi)
+set SSL_CERT_FILE=C:\path\to\venv\Lib\site-packages\certifi\cacert.pem
+set HF_HUB_DISABLE_SYMLINKS_WARNING=true
+```
+
+## Other Notable Commands
+```
+chmod +x .\Outlook_Auto_4.py
+OPENAI_API_KEY=[API_KEY]
+```
